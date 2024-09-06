@@ -1,29 +1,24 @@
 <img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/>
 
-## Hi there 👋
-:canada: :el_salvador:	:new_moon: :earth_americas: :rugby_football:	:musical_note:	:computer:
-
 # Welcome
 <hr />
-
-Text
+The purpose of this space is to highlight past projects, experinces and skills.
 
 <br>
 
 ## **Intro**
 <hr />
+Professional with more than 10 years of combined experience in managment consulting, marketing, advertising, law enforcement, retail and QSR industries
 
-Text
+Data and tech enthusiast in the areas of database managent, data analysis, geospatial technologies, business intelligence and business systems.
 
 <br>
 
 ## **Contact Info**
 <hr />
+Gmail - 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - <https://www.linkedin.com/in/mevasquez/>
-
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+LinkedIn - <https://www.linkedin.com/in/mevasquez/>
 
 <br>
 
@@ -167,7 +162,6 @@ You can add an image or a code block, too.
 Resources:
 <hr />
 
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
@@ -187,31 +181,8 @@ Resources:
 | Fun| Links |
 | --- | --- |
 | T-SQL | [Awesome Maps](https://github.com/simsieg/awesome-maps) |
-![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) | 
 
 <br>
-
-<hr />
-
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-
-
-<hr />
-
-<br>
-
-## **Interests**
-<hr />
-
-| Fun| Links |
-| --- | --- |
-| Soft Rock | --- |
-| Deep House | Kai Alce |
-
-Support Your Local Library
-
-<br>
-
 
 ## Links
 <hr />
@@ -235,13 +206,9 @@ Support Your Local Library
 
 <br>
 
-
+<!--
 ## **Mapping4Fun**
 
-
-
-
-<!--
 **vasquezme/vasquezme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
