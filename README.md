@@ -4,13 +4,15 @@
 <hr />
 The purpose of this space is to highlight past projects, experinces and skills.
 
+
 <br>
 
 ## **Intro**
 <hr />
-Professional with more than 10 years of combined experience in managment consulting, marketing, advertising, law enforcement, retail and QSR industries
+Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
 
-Data and tech enthusiast in the areas of database managent, data analysis, geospatial technologies, business intelligence and business systems.
+Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
+
 
 <br>
 
@@ -19,6 +21,7 @@ Data and tech enthusiast in the areas of database managent, data analysis, geosp
 Gmail - 
 
 LinkedIn - <https://www.linkedin.com/in/mevasquez/>
+
 
 <br>
 
@@ -100,9 +103,7 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Other Projects</summary>
-
-### TEA - PM2.5 in Toronto
+<summary>TEA - PM2.5 in Toronto</summary>
 
   - Highlight1
   - Highlight2
@@ -111,19 +112,11 @@ You can add an image or a code block, too.
 ```ruby
    Links/Resources
 ```
+</details>
 
-### City of Toronto Arts Incubator Program
+<details>
 
-  - Highlight1
-  - Highlight2
-
-You can add an image or a code block, too.
-
-```ruby
-   Links/Resources
-```
-
-### Artscape
+<summary>City of Toronto Arts Incubator Program</summary>
 
   - Highlight1
   - Highlight2
@@ -133,14 +126,32 @@ You can add an image or a code block, too.
 ```ruby
    Links/Resources
 ```
+</details>
 
-### CC Field Feasibility Study
+<details>
+
+<summary>Artscape</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+</details>
+
+<details>
+
+<summary>CC Field Feasibility Study</summary>
 
   - Highlight1
   - Highlight2
 
 You can add an image or a code block, too.
 </details>
+
 <br>
 
 
