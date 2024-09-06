@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/365260626-1dcbeb8b-42b4-463a-a9f5-919880d293a4" width="1050"/>
+<img src="https://github.com/vasquezme/vasquezme.github.io/issues/3#issue-2510930894" width="1050"/>
+
+https://github.com/vasquezme/vasquezme.github.io/issues/3#issue-2510930894
 
 ## Hi there 👋
 
