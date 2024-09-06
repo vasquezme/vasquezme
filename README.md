@@ -18,23 +18,24 @@ Data and tech enthusiast in the areas of database management, data analysis, geo
 
 ## **Contact Info**
 <hr />
-Gmail - 
+:mailbox_with_no_mail: - GMail m.e.vasquez8@gmail.com
 
-LinkedIn - <https://www.linkedin.com/in/mevasquez/>
+:computer: - LinkedIn: <https://www.linkedin.com/in/mevasquez/>
 
 
 <br>
 
-## **Projects**
+## **Relevant Experience and Projects**
 <hr />
 <details>
 
 <summary>Data Engineer</summary>
 
-### Header
+### Data Engineer
 
-  - Highlight1
-  - Highlight2
+  - ETL pipelines from a variety of sources in to SaaS BI platform
+  - Database management for sales, transactions and customer records
+  - Tools used include: Alteryx, SQL, Power BI, Trail Blazer, Kalibrate Location Intelligence
 
 You can add an image or a code block, too.
 
@@ -48,10 +49,11 @@ You can add an image or a code block, too.
 
 <summary>Reporting Analyst</summary>
 
-### Header
+### Reporting Analyst
 
-  - Highlight1
-  - Highlight2
+  - Created workflow to present Power BI reports
+  - Implemented process to capture change requests inpacts on resources and project deliverables
+  - Tools Used Include: MS Power Apps, Form, Excel, Power BI
 
 You can add an image or a code block, too.
 
@@ -61,16 +63,17 @@ You can add an image or a code block, too.
 
 </details>
 
-</details>
 
 <details>
 
 <summary>Technical Support</summary>
 
-### Header
+### Technical Support
 
-  - Highlight1
-  - Highlight2
+  - Software technical support and product advocate
+  - Pre-sales product demos., software training, product webinars, product fulfillment, community forums and sales enablement
+  - 
+  - Tools used include: Excel, Freshdesk, Salesforce
 
 You can add an image or a code block, too.
 
@@ -83,7 +86,7 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Fulfillment and Client Services</summary>
+<summary>Product Licensing, Fulfillment and Support</summary>
 
 ### Header
 
@@ -103,7 +106,46 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>TEA - PM2.5 in Toronto</summary>
+<summary>Product Mangement</summary>
+
+### Product Mangement
+
+  - Product 
+  - Highlight2
+  - Highlight3
+
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+<details>
+
+<summary>Client Services</summary>
+
+### Client Services
+
+  - Product 
+  - Highlight2
+  - Highlight3
+
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+
+<details>
+
+<summary>TEA - PM2.5 in the City of Toronto</summary>
 
   - Highlight1
   - Highlight2
