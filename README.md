@@ -48,6 +48,9 @@ The purpose of this space is to highlight past projects, experinces and skills.
   - Database management for sales, transactions and customer records
   - Tools used include: Alteryx, SQL, Power BI, Trail Blazer, Kalibrate Location Intelligence
 
+![Databasediagrams](https://github.com/user-attachments/assets/4834a7cc-1942-4483-adb4-a1b87d94bf18)
+
+
 You can add an image or a code block, too.
 
 ```ruby
