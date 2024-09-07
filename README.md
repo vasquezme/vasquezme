@@ -16,7 +16,7 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 - Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
 
-- Related activities: Stakeholder support, Pre-sales support, sales enablement, product management, data governance, client advocacy, client services, community forums, 
+- Related activities: Data warehousing, data lakes, data governance, SaaS migration, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
 <img src="https://github.com/user-attachments/assets/258236f7-fbcf-4c17-8b64-fadbe63e4518" width="1050">
 
