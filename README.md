@@ -9,10 +9,15 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 ## **Intro**
 <hr />
-Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
+- Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
 
-Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
+- Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
 
+- Stakeholder support, product management, data governance, client services
+
+- Tools Used 
+
+![Tools](https://github.com/user-attachments/assets/258236f7-fbcf-4c17-8b64-fadbe63e4518)
 
 <br>
 
