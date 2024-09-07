@@ -24,9 +24,12 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 ## **Contact Info**
 <hr />
-:mailbox_with_no_mail: - GMail m.e.vasquez8@gmail.com
 
-:computer: - LinkedIn: <https://www.linkedin.com/in/mevasquez/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mevasquez/">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
+  </a>
+</p>
 
 
 
