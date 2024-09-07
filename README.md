@@ -18,8 +18,6 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
-<img src="https://github.com/user-attachments/assets/258236f7-fbcf-4c17-8b64-fadbe63e4518" width="1050">
-
 <br>
 
 ## **Contact Info**
