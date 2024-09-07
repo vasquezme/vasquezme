@@ -9,15 +9,14 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 ## **Intro**
 <hr />
+
 - Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
 
 - Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
 
-- Developed ETL pipelines streamlining data operations using database management tools, BI and visualization
+- Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
 
 - Related activities: Stakeholder support, Pre-sales support, sales enablement, product management, data governance, client advocacy, client services, community forums, 
-
-- Tools Used 
 
 ![Tools](https://github.com/user-attachments/assets/258236f7-fbcf-4c17-8b64-fadbe63e4518)
 
