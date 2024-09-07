@@ -13,7 +13,9 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 - Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
 
-- Stakeholder support, product management, data governance, client services
+- Developed ETL pipelines streamlining data operations using database management tools, BI and visualization
+
+- Related activities: Stakeholder support, Pre-sales support, sales enablement, product management, data governance, client advocacy, client services, community forums, 
 
 - Tools Used 
 
