@@ -64,9 +64,9 @@ You can add an image or a code block, too.
 
 </details>
 
-<details>
-
 ### Reporting Analyst
+
+<details>
 
 <summary>Reporting Analyst</summary>
 
@@ -82,10 +82,9 @@ You can add an image or a code block, too.
 
 </details>
 
+### Technical Support
 
 <details>
-
-### Technical Support
 
 <summary>Technical Support</summary>
 
@@ -101,10 +100,9 @@ You can add an image or a code block, too.
 
 </details>
 
+### Product Licensing, Fulfillment and Support
 
 <details>
-
-### Product Licensing, Fulfillment and Support
 
 <summary>Product Licensing, Fulfillment and Support</summary>
 
@@ -122,16 +120,15 @@ You can add an image or a code block, too.
 
 </details>
 
-<details>
-
 ### Product Mangement
+
+<details>
 
 <summary>Product Mangement</summary>
 
   - Data production for distribtion 
   - Data QZ
   - SaaS feature QA
-
 
 You can add an image or a code block, too.
 
@@ -141,14 +138,14 @@ You can add an image or a code block, too.
 
 </details>
 
+### Client Services
+
 <details>
 
 <summary>Client Services</summary>
 
-### Client Services
-
-  - Product 
-  - Highlight2
+  - Client advocacy 
+  - CRM reporting
   - Highlight3
 
 
@@ -160,15 +157,14 @@ You can add an image or a code block, too.
 
 </details>
 
+### Elections Ontario - 2022 General Elections
+
 <details>
 
 <summary>Elections Ontario - 2022 General Elections</summary>
 
-### Elections Ontario - 2022 General Elections
-
   - Polling Stations 
   - Voter response rates
-
 
 You can add an image or a code block, too.
 
@@ -178,6 +174,7 @@ You can add an image or a code block, too.
 
 </details>
 
+### TEA - PM2.5 in the City of Toronto
 
 <details>
 
