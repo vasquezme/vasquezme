@@ -42,9 +42,10 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 ## **Relevant Experience and Projects**
 <hr />
-<details>
 
 ### Data Engineer
+
+<details>
 
 <summary>Data Engineer</summary>
 
