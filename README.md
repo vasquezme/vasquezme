@@ -191,6 +191,8 @@ You can add an image or a code block, too.
 
 <details>
 
+### City of Toronto Arts Incubator Program
+
 <summary>City of Toronto Arts Incubator Program</summary>
 
   - Highlight1
@@ -202,6 +204,8 @@ You can add an image or a code block, too.
    Links/Resources
 ```
 </details>
+
+### Artscape
 
 <details>
 
@@ -216,6 +220,8 @@ You can add an image or a code block, too.
    Links/Resources
 ```
 </details>
+
+### CC Field Feasibility Study
 
 <details>
 
