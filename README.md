@@ -189,9 +189,9 @@ You can add an image or a code block, too.
 ```
 </details>
 
-<details>
-
 ### City of Toronto Arts Incubator Program
+
+<details>
 
 <summary>City of Toronto Arts Incubator Program</summary>
 
