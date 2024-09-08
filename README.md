@@ -44,9 +44,9 @@ The purpose of this space is to highlight past projects, experinces and skills.
 <hr />
 <details>
 
-<summary>Data Engineer</summary>
-
 ### Data Engineer
+
+<summary>Data Engineer</summary>
 
   - ETL pipelines from a variety of sources in to SaaS BI platform
   - Database management for sales, transactions and customer records
@@ -65,9 +65,9 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Reporting Analyst</summary>
-
 ### Reporting Analyst
+
+<summary>Reporting Analyst</summary>
 
   - Created workflow to present Power BI reports
   - Implemented process to capture change requests inpacts on resources and project deliverables
@@ -84,13 +84,12 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Technical Support</summary>
-
 ### Technical Support
+
+<summary>Technical Support</summary>
 
   - Software technical support and product advocate
   - Pre-sales product demos., software training, product webinars, product fulfillment, community forums and sales enablement
-  - 
   - Tools used include: Excel, Freshdesk, Salesforce
 
 You can add an image or a code block, too.
@@ -104,9 +103,9 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Product Licensing, Fulfillment and Support</summary>
+### Product Licensing, Fulfillment and Support
 
-### Header
+<summary>Product Licensing, Fulfillment and Support</summary>
 
   - Highlight1
   - Batch Scripting for Data Warehousing
@@ -124,13 +123,13 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Product Mangement</summary>
-
 ### Product Mangement
 
-  - Product 
-  - Highlight2
-  - Highlight3
+<summary>Product Mangement</summary>
+
+  - Data production for distribtion 
+  - Data QZ
+  - SaaS feature QA
 
 
 You can add an image or a code block, too.
