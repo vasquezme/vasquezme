@@ -217,6 +217,8 @@ You can add an image or a code block, too.
   - Highlight1
   - Highlight2
 
+![Launchpad](https://github.com/user-attachments/assets/98337e9d-7d43-4abf-ae97-cc86cecd4f93)
+
 You can add an image or a code block, too.
 
 ```ruby
