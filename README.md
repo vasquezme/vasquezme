@@ -166,7 +166,7 @@ You can add an image or a code block, too.
   - Polling Stations 
   - Voter response rates
 
-You can add an image or a code block, too.
+![2022GeneralElections](https://github.com/user-attachments/assets/23f6b141-d27e-4992-afc2-d0b938d153a7)
 
 ```ruby
    Links/Resources
@@ -182,6 +182,9 @@ You can add an image or a code block, too.
 
   - Highlight1
   - Highlight2
+![TEA1](https://github.com/user-attachments/assets/fa60bb89-c551-46e5-91a8-6ab38d080077)
+![TEAPM25](https://github.com/user-attachments/assets/da68e8ac-56ac-45a8-b362-ab3e34df0f58)
+![teapm25_2](https://github.com/user-attachments/assets/8c8b27e8-e7ec-4b7f-95f5-e6eb0e3e9119)
 
 You can add an image or a code block, too.
 ```ruby
