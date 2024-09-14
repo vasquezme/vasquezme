@@ -300,7 +300,7 @@ Resources:
 - (https://blog.hubspot.com/website/free-open-apis?hubs_content=blog.hubspot.com%2Fwebsite%2Fapi-calls&hubs_content-cta=free%20and%20open%20API)
 - (https://www.keybr.com/)
 - (https://www.tutorialspoint.com/index.htm)
-
+- https://handsondataviz.org/
 
 <br>
 
