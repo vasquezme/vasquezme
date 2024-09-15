@@ -32,7 +32,7 @@ The purpose of this space is to highlight past projects, experinces and skills.
   </a>
 </p>
 
-https://github.com/vasquezme/leaflet-map/index.html
+ https://vasquezme.github.io/leaflet-map/
 
 
 
