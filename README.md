@@ -236,7 +236,7 @@ You can add an image or a code block, too.
 
 <br>
 
-
+<!--
 ## **Tools, Resources and Coding**
 <hr />
 <br>
@@ -298,7 +298,7 @@ Resources:
 - https://handsondataviz.org/
 
 <br>
-
+-->
 <!--
 ## **Mapping4Fun**
 
