@@ -86,7 +86,7 @@ You can add an image or a code block, too.
 
   - Software technical support and product advocate
   - Pre-sales product demos., software training, product webinars, product fulfillment, community forums and sales enablement
-  - Tools used include: Excel, Freshdesk, Salesforce
+  - Tools used include: MS Office, Freshdesk, Zendesk, MS Dynamics and Salesforce
 
 You can add an image or a code block, too.
 
