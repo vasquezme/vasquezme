@@ -2,8 +2,17 @@
 
 # Welcome
 <hr />
-The purpose of this space is to highlight past projects, experinces and skills.
+The purpose of this space is to highlight past projects, experinces and technical/professional skills.
 
+Current Projects:
+- GitHub Personal Profile
+- LinkedIn Online Courses
+- ESRI Online Courses
+- MS Online Courses
+- Coding
+
+Future Projects:
+- Winnie and Theo's Animal Rescue
 
 <br>
 
@@ -46,7 +55,7 @@ https://vasquezme.github.io/leaflet-map/
 
   - ETL pipelines from a variety of sources in to SaaS BI platform
   - Database management for sales, transactions and customer records
-  - Tools used include: Alteryx, SQL, Power BI, Trail Blazer, Kalibrate Location Intelligence
+  - Tools used include: Alteryx, SQL, Power BI, TrailBlazer, Kalibrate Location Intelligence
 
 Database Diagram for Winnie's Hotel and Theo's Resto
 
@@ -238,6 +247,21 @@ You can add an image or a code block, too.
 
 <details>
 
+<summary>Deforestation in Rodonia, Brazil</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+
+
+</details>
+
+### CC Field Feasibility Study
+
+<details>
+
 <summary>CC Field Feasibility Study</summary>
 
   - Highlight1
@@ -253,6 +277,8 @@ Business Plan Schedule
 ![CC Schedule](https://github.com/user-attachments/assets/9e338aec-cab3-4589-8876-798e74d0eeb4)
 
 </details>
+
+
 
 <br>
 
