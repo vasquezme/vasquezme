@@ -18,8 +18,7 @@ The purpose of this space is to highlight past projects, experinces and skills.
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
-![RadarCharts](https://github.com/user-attachments/assets/b48dbb12-b2f7-4dbc-ac79-628672969835)
-
+![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
 
 <br>
 
@@ -56,6 +55,11 @@ Database Diagram for Winnie's Hotel and Theo's Resto
 Winnie's Hotel and Theo's Resto Locations with 3 KM Buffer in ArcGIS Pro
 
 ![winnietheobuffers](https://github.com/user-attachments/assets/b968f3a5-e9af-453b-9dc6-6be88c9a9e48)
+
+Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
+
+![winnietheodashboard](https://github.com/user-attachments/assets/a0c9c395-ebec-4976-b962-c906c8a9e29b)
+
 
 ```ruby
    Links/Resources
@@ -125,9 +129,9 @@ You can add an image or a code block, too.
 
 <summary>Product Mangement</summary>
 
-  - Data production for distribtion 
-  - Data QZ
-  - SaaS feature QA
+  - Data production and product bundling for distribtion 
+  - Data QA
+  - SaaS End-User feature and workflow testing
 
 You can add an image or a code block, too.
 
@@ -145,7 +149,7 @@ You can add an image or a code block, too.
 
   - Client advocacy 
   - CRM reporting
-  - Highlight3
+  - Zendesk, Freshdesk and JIRA
 
 
 You can add an image or a code block, too.
@@ -165,6 +169,8 @@ You can add an image or a code block, too.
   - Polling Stations 
   - Voter response rates
 
+Elections Ontario - 2022 General Election ArcMap Pro
+
 ![2022GeneralElections](https://github.com/user-attachments/assets/23f6b141-d27e-4992-afc2-d0b938d153a7)
 
 ```ruby
@@ -179,10 +185,13 @@ You can add an image or a code block, too.
 
 <summary>TEA - PM2.5 in the City of Toronto</summary>
 
-  - Highlight1
+  - TEA Harmful toxins reported to City of Toronto  
   - Highlight2
+
 ![TEA1](https://github.com/user-attachments/assets/fa60bb89-c551-46e5-91a8-6ab38d080077)
+
 ![TEAPM25](https://github.com/user-attachments/assets/da68e8ac-56ac-45a8-b362-ab3e34df0f58)
+
 ![teapm25_2](https://github.com/user-attachments/assets/8c8b27e8-e7ec-4b7f-95f5-e6eb0e3e9119)
 
 You can add an image or a code block, too.
