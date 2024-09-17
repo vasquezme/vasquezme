@@ -58,11 +58,9 @@ Future Projects:
   </a>
 </p>
 
-<img height="100" width="100" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/gmail/EA4335" />
-
 
 https://vasquezme.github.io/leaflet-map/
+
 
 <br>
 
