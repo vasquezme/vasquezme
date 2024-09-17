@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/>
+<img src="https://github.com/user-attachments/assets/3b50a688-65f4-4682-8a4c-b2e6221d5257" width="1050" height="300"/>
+
 
 # Welcome
 <hr />
@@ -247,21 +248,6 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Deforestation in Rodonia, Brazil</summary>
-
-  - Highlight1
-  - Highlight2
-
-You can add an image or a code block, too.
-
-
-
-</details>
-
-### CC Field Feasibility Study
-
-<details>
-
 <summary>CC Field Feasibility Study</summary>
 
   - Highlight1
@@ -278,6 +264,19 @@ Business Plan Schedule
 
 </details>
 
+### CC Field Feasibility Study
+
+<details>
+
+<summary>Deforestation in Rodonia, Brazil</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+
+</details>
 
 
 <br>
