@@ -49,10 +49,13 @@ https://vasquezme.github.io/leaflet-map/
   - Database management for sales, transactions and customer records
   - Tools used include: Alteryx, SQL, Power BI, Trail Blazer, Kalibrate Location Intelligence
 
+Database Diagram for Winnie's Hotel and Theo's Resto
+
 ![Databasediagrams](https://github.com/user-attachments/assets/4834a7cc-1942-4483-adb4-a1b87d94bf18)
 
+Winnie's Hotel and Theo's Resto Locations with 3 KM Buffer in ArcGIS Pro
 
-You can add an image or a code block, too.
+![winnietheobuffers](https://github.com/user-attachments/assets/b968f3a5-e9af-453b-9dc6-6be88c9a9e48)
 
 ```ruby
    Links/Resources
