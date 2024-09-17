@@ -235,6 +235,14 @@ You can add an image or a code block, too.
   - Highlight2
 
 You can add an image or a code block, too.
+
+Business Plan Outline
+
+![CC Field Outline](https://github.com/user-attachments/assets/4431d6e5-884c-4b6a-8a09-0957b8fdbd94)
+
+Business Plan Schedule
+![CC Schedule](https://github.com/user-attachments/assets/9e338aec-cab3-4589-8876-798e74d0eeb4)
+
 </details>
 
 <br>
