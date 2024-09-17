@@ -3,7 +3,24 @@
 
 # Welcome
 <hr />
-The purpose of this space is to highlight past projects, experinces and technical/professional skills.
+The purpose of this space is to highlight past projects, experinces and skills.
+
+
+
+<br>
+<hr />
+
+Technical Skills and Tools used:
+
+
+| - | - | - | - | - | - |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img height="100" width="100" src="https://cdn.simpleicons.org/alteryx/0078C0" />  | <img height="100" width="100" src="https://cdn.simpleicons.org/arcgis/2C7AC3" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/github/181717" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/googlemaps/4285F4" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/leaflet/199900" />  
+| <img height="100" width="100" src="https://cdn.simpleicons.org/python/3776AB" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/html5/E34F26" />  | <img height="100" width="100" src="https://cdn.simpleicons.org/googleearth/4285F4" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/jira/0052CC" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/confluence/172B4D" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/zendesk/03363D" />
+
+Source logos: https://simpleicons.org/
+
+
 
 Current Projects:
 - GitHub Personal Profile
@@ -40,6 +57,10 @@ Future Projects:
     <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
   </a>
 </p>
+
+<img height="100" width="100" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/gmail/EA4335" />
+
 
 https://vasquezme.github.io/leaflet-map/
 
