@@ -5,7 +5,12 @@
 <hr />
 The purpose of this space is to highlight past projects, experinces and skills.
 
-
+Currently Working on:
+- how-to-pandas
+- how-to-pyspark
+- how-to-arcpy
+- how-to-batch
+- how-to-excel
 
 <br>
 <hr />
