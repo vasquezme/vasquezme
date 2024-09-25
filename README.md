@@ -5,6 +5,33 @@
 <hr />
 The purpose of this space is to highlight past projects, experinces and skills.
 
+
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada.
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> Currently in: Toronto. Ontario, Canada.
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-calendar-48.svg" /> 2022 - 2023
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> Data Engineer
+
+
+
+
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />
+
+
+
+
+
+
+
+<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />
+
+
 Currently Working on:
 - how-to-pandas
 - how-to-pyspark
