@@ -3,7 +3,7 @@
 <center><h1>Hi! Welcome to my Github Page!</h1></center>
 <hr />
 
-<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Canada. | <img height="30" width="30" src="https://cdn.simpleicons.org/leaflet/199900" />  https://vasquezme.github.io/leaflet-map/ | <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez | <img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center> |
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN. | <img height="30" width="30" src="https://cdn.simpleicons.org/leaflet/199900" />  https://vasquezme.github.io/leaflet-map/ | <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez | <img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center> |
 | ------------- | ------------- | ------------- | ------------- |
 
 <hr />
