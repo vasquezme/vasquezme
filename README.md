@@ -30,6 +30,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 </p>
 
+<br>
+
 <hr />
 <hr />
 
@@ -41,6 +43,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <p>
   Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
 </p>
+
+<br>
 
 <hr />
 <hr />
@@ -54,6 +58,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <p>
     Kalibrate Technologies - Data Engineer
 </p>
+
+<br>
 
 <hr />
 <hr />
@@ -71,7 +77,19 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 Source logos: https://simpleicons.org/
 
+<br>
+
+<hr />
+<hr />
+
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Current Projects:</h1>
+
+</body>
+
+<p>
 Current projects:
+
 - how-to-pandas
 - how-to-pyspark
 - how-to-arcpy
@@ -85,14 +103,18 @@ Current projects:
 
 Future Projects:
 - Winnie and Theo's Animal Rescue
-
+</p>
 
 <br>
 
-
-
-## **Relevant Experience and Projects**
 <hr />
+<hr />
+
+
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects</h1>
+
+</body>
 
 ### Data Engineer
 
@@ -325,7 +347,12 @@ You can add an image or a code block, too.
 </details>
 
 
+
 <br>
+
+
+<hr />
+<hr />
 
 <!--
 
