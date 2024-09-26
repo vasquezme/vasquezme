@@ -1,7 +1,11 @@
 <hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/><hr />
 
 
+<div align="center">
+
 <h1>Hi! Welcome to my GitHub Page!</h1>
+
+</div>
 
 <hr />
 <hr />
@@ -64,7 +68,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Education:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-education-48.svg" />Education:</h1>
 
 </body>
 
@@ -78,16 +82,15 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />Relevant Experience and Projects:</h1>
 
 </body>
-
 
 <p>
 
 ### Data Engineer
 
- <details>
+<details>
 
 
 
@@ -327,7 +330,7 @@ You can add an image or a code block, too.
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Technical Skills and Tools used:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" />Technical Skills and Tools used:</h1>
 
 </body>
 
