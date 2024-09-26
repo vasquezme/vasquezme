@@ -1,5 +1,4 @@
-<hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/>
-<hr />
+<hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/><hr />
 
 
 <h1>Hi! Welcome to my GitHub Page!</h1>
@@ -7,13 +6,20 @@
 <hr />
 <hr />
 
-
-<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN. | <img height="30" width="30" src="https://cdn.simpleicons.org/leaflet/199900" />  https://vasquezme.github.io/leaflet-map/ | <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez | <img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center> |
-| ------------- | ------------- | ------------- | ------------- |
-
-<hr />
-<hr />
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
+<hr />
+<hr />
+
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN. 🐕 🐈 🚴 💻 🧑‍🍳 🍪 ☕ 
+<br>
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/
+<br>
+<img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez
+<br>
+<img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center>
+<br>
+
+
 <hr />
 <hr />
 
