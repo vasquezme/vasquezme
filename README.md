@@ -54,14 +54,255 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 <hr />
 
+<details>
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Experience:</h1>
+    <summary><h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1></summary>
 
 </body>
 
+
 <p>
-    Kalibrate Technologies - Data Engineer
+
+### Data Engineer
+
+<details>
+
+<summary>Data Engineer</summary>
+
+  - ETL pipelines from a variety of sources in to SaaS BI platform
+  - Database management for sales, transactions and customer records
+  - Tools used include: Alteryx, SQL, Power BI, TrailBlazer, Kalibrate Location Intelligence
+
+Database Diagram for Winnie's Hotel and Theo's Resto
+
+![Databasediagrams](https://github.com/user-attachments/assets/4834a7cc-1942-4483-adb4-a1b87d94bf18)
+
+Winnie's Hotel and Theo's Resto Locations with 3 KM Buffer in ArcGIS Pro
+
+![winnietheobuffers](https://github.com/user-attachments/assets/b968f3a5-e9af-453b-9dc6-6be88c9a9e48)
+
+Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
+
+![winnietheodashboard](https://github.com/user-attachments/assets/a0c9c395-ebec-4976-b962-c906c8a9e29b)
+
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Reporting Analyst
+
+<details>
+
+<summary>Reporting Analyst</summary>
+
+  - Created workflow to present Power BI reports
+  - Implemented process to capture change requests inpacts on resources and project deliverables
+  - Tools Used Include: MS Power Apps, Form, Excel, Power BI
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Technical Support
+
+<details>
+
+<summary>Technical Support</summary>
+
+  - Software technical support and product advocate
+  - Pre-sales product demos., software training, product webinars, product fulfillment, community forums and sales enablement
+  - Tools used include: MS Office, Freshdesk, Zendesk, MS Dynamics and Salesforce
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Product Licensing, Fulfillment and Support
+
+<details>
+
+<summary>Product Licensing, Fulfillment and Support</summary>
+
+  - Highlight1
+  - Batch Scripting for Data Warehousing
+      - Creating file managment process to create data management system
+      - CMD line Batch Scripting using XCOPY, MD, MOVE, DEL, REN, TREE and others to manage files and directories across business systems.
+      - CMD line used to call on WINZIP, zip and rename files for distribution
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Product Mangement
+
+<details>
+
+<summary>Product Mangement</summary>
+
+  - Data production and product bundling for distribtion 
+  - Data QA
+  - SaaS End-User feature and workflow testing
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Client Services
+
+<details>
+
+<summary>Client Services</summary>
+
+  - Client advocacy 
+  - CRM reporting
+  - Zendesk, Freshdesk and JIRA
+
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### Elections Ontario - 2022 General Elections
+
+<details>
+
+<summary>Elections Ontario - 2022 General Elections</summary>
+
+  - Polling Stations 
+  - Voter response rates
+
+Elections Ontario - 2022 General Election ArcMap Pro
+
+![2022GeneralElections](https://github.com/user-attachments/assets/23f6b141-d27e-4992-afc2-d0b938d153a7)
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
+### TEA - PM2.5 in the City of Toronto
+
+<details>
+
+<summary>TEA - PM2.5 in the City of Toronto</summary>
+
+  - TEA Harmful toxins reported to City of Toronto  
+  - Highlight2
+
+![TEA1](https://github.com/user-attachments/assets/fa60bb89-c551-46e5-91a8-6ab38d080077)
+
+![TEAPM25](https://github.com/user-attachments/assets/da68e8ac-56ac-45a8-b362-ab3e34df0f58)
+
+![teapm25_2](https://github.com/user-attachments/assets/8c8b27e8-e7ec-4b7f-95f5-e6eb0e3e9119)
+
+You can add an image or a code block, too.
+```ruby
+   Links/Resources
+```
+</details>
+
+### City of Toronto Arts Incubator Program
+
+<details>
+
+<summary>City of Toronto Arts Incubator Program</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+</details>
+
+### Artscape
+
+<details>
+
+<summary>Artscape</summary>
+
+  - Highlight1
+  - Highlight2
+
+![Launchpad](https://github.com/user-attachments/assets/98337e9d-7d43-4abf-ae97-cc86cecd4f93)
+
+You can add an image or a code block, too.
+
+```ruby
+   Links/Resources
+```
+</details>
+
+### CC Field Feasibility Study
+
+<details>
+
+<summary>CC Field Feasibility Study</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+Business Plan Outline
+
+![CC Field Outline](https://github.com/user-attachments/assets/4431d6e5-884c-4b6a-8a09-0957b8fdbd94)
+
+Business Plan Schedule
+![CC Schedule](https://github.com/user-attachments/assets/9e338aec-cab3-4589-8876-798e74d0eeb4)
+
+</details>
+
+### Deforestation in Rodonia, Brazil
+
+<details>
+
+<summary>Deforestation in Rodonia, Brazil</summary>
+
+  - Highlight1
+  - Highlight2
+
+You can add an image or a code block, too.
+
+
+</details>
+
+</details>
+
+<br>
+
+
+<hr />
+<hr />
+
+
 </p>
 
 <br>
