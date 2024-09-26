@@ -7,12 +7,10 @@
 <hr />
 
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
-<hr />
-<hr />
 
 <div align="center">
 
-<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN. 🐕 🐈 🚴 💻 🧑‍🍳 🍪 ☕ 
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN.
 <br>
 
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-dog-64.svg" />
@@ -24,12 +22,14 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-sushi-48.svg" />
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cookies-64.svg" />
 
-
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/
 <br>
 <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez
 <br>
-<img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center>
+<img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com
+
+</center>
+
 <br>
 
 
