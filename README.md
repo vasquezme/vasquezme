@@ -1,13 +1,72 @@
 <img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="350"/>
 
-
-# Welcome
+<br>
+<center><h1>Hi! Welcome to my Github Page!</h1></center>
 <hr />
-The purpose of this space is to highlight past projects, experinces and skills.
 
 
+The purpose of this space is to introduce myself and highlight current/past projects.
 
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada.
+<hr />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Professional Bio:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Solution-driven analytical professional with experience managing socioeconomic, geospatial and transactional databases for software companies in the Marketing, Advertising, Law Enforcement and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
+
+<hr />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Education:
+
+<hr />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
+
+<hr />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Experience:
+
+DATA ENGINEER
+
+Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Oct. 2022 – Sept. 2023
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Developed SQL, Alteryx and Power BI data pipelines to clean, validate, summarize and report on inbound client and vendor data
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Supported eSite’s Trailblazer and Kalibrate’s Location Intelligence platforms through warehousing initiatives including vendor data retrieval, validation, updates and backups
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Provided aggregated customer summaries, competitors lists, customer potential, location performance, maps, spatial layers (i.e. trade areas, buffers), and retail sales through dashboards
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Reported on data summaries, transfers, validation and ETL tasks to cross functional team of data
+analysts, data scientist, project managers, and account managers
+
+<hr />
+
+BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST
+
+Williams Engineering Canada - Flow Consulting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | May 2021 – Apr 2022
+
+● Designed Project Management workflow capturing weekly payroll schedule, employee pay rates and
+multipliers through extract, transform and load tasks to produce Power BI dashboards
+● Captured business requirements, analyzed data suitability, updated job aids and created variable
+dictionaries as part of client on-boarding
+● Introduced MS Power Apps and automated workflows to successfully capture, organize and report on
+change requests to reduce errors in project logs
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; - GIS Analyst
+
+&nbsp;&nbsp;&nbsp;&nbsp; - Database Analyst
+
+&nbsp;&nbsp;&nbsp;&nbsp; - Technical Support Specialist
+
+&nbsp;&nbsp;&nbsp;&nbsp; - Fulfillment and Client Services Manager
+
+
+<br>
+
+<hr />
+
+
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada.
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> Currently in: Toronto. Ontario, Canada.
 
@@ -16,6 +75,8 @@ The purpose of this space is to highlight past projects, experinces and skills.
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-calendar-48.svg" /> 2022 - 2023
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> Data Engineer
+
+
 
 
 
