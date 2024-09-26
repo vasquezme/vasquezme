@@ -7,6 +7,18 @@
 <hr />
 <hr />
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
+
+- Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
+
+- Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
+
+- Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
+
+- Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
+
+![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
+
+
 <hr />
 <hr />
 
