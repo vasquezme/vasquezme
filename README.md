@@ -40,6 +40,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 <hr />
 
+
 <body>
     <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Education:</h1>
 
@@ -54,10 +55,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 <hr />
 
-<details>
-
 <body>
-    <summary><h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1></summary>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1>
 
 </body>
 
@@ -66,7 +65,9 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 ### Data Engineer
 
-<details>
+ <details>
+
+
 
 <summary>Data Engineer</summary>
 
@@ -309,7 +310,7 @@ You can add an image or a code block, too.
 </body>
 
 
-| - | - | - | - | - | - |
+|  |  |  |  |  |  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <img height="100" width="100" src="https://cdn.simpleicons.org/alteryx/0078C0" />  | <img height="100" width="100" src="https://cdn.simpleicons.org/arcgis/2C7AC3" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/github/181717" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/googlemaps/4285F4" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/leaflet/199900" />  
 | <img height="100" width="100" src="https://cdn.simpleicons.org/python/3776AB" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/html5/E34F26" />  | <img height="100" width="100" src="https://cdn.simpleicons.org/googleearth/4285F4" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/jira/0052CC" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/confluence/172B4D" /> | <img height="100" width="100" src="https://cdn.simpleicons.org/zendesk/03363D" />
@@ -343,6 +344,10 @@ Current projects:
 Future Projects:
 - Winnie and Theo's Animal Rescue
 </p>
+
+
+<hr />
+<hr />
 
 
 <!--
@@ -589,8 +594,7 @@ You can add an image or a code block, too.
 <br>
 
 
-<hr />
-<hr />
+
 
 <!--
 
