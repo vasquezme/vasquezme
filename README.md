@@ -1,24 +1,14 @@
 <hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/>
 <hr />
-
 <center><h1>Hi! Welcome to my Github Page!</h1></center>
 <hr />
-<center><img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada. &nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> https://www.linkedin.com/in/mevasquez &nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> m.e.vasquez8@gmail.com</center>
+
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Canada. | <img height="30" width="30" src="https://cdn.simpleicons.org/leaflet/199900" />  https://vasquezme.github.io/leaflet-map/ | <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez | <img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center> |
+| ------------- | ------------- | ------------- | ------------- |
+
 <hr />
 <hr />
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
-
-- Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
-
-- Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
-
-- Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
-
-- Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
-
-![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
-
-
 <hr />
 <hr />
 
@@ -29,6 +19,15 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 <p>
   Solution-driven analytical professional with experience managing socioeconomic, geospatial and transactional databases for software companies in the Marketing, Advertising, Law Enforcement and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
+
+- Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
+
+- Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
+
+- Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
+
+![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
+
 </p>
 
 <hr />
@@ -46,87 +45,23 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 <hr />
 
+
 <body>
     <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Experience:</h1>
 
 </body>
 
 <p>
-<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />Data Engineer</h3>
-
-Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Oct. 2022 – Sept. 2023
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Developed SQL, Alteryx and Power BI data pipelines to clean, validate, summarize and report on inbound client and vendor data
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Supported eSite’s Trailblazer and Kalibrate’s Location Intelligence platforms through warehousing initiatives including vendor data retrieval, validation, updates and backups
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Provided aggregated customer summaries, competitors lists, customer potential, location performance, maps, spatial layers (i.e. trade areas, buffers), and retail sales through dashboards
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Reported on data summaries, transfers, validation and ETL tasks to cross functional team of data
-analysts, data scientist, project managers, and account managers
+    Kalibrate Technologies - Data Engineer
 </p>
 
 <hr />
 <hr />
 
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Technical Skills and Tools used:</h1>
 
-<p>
-<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />TECHNICAL SUPPORT SPECIALIST</h3>
-
-Uncharted Software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | Oct 2019 – May 2021
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Provided software solutions to clients in the international law enforcement community and promoted product adoption through online and in person training
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Created scoping documents identifying Subscribers, Date and Time values, Type of Transmission, and Location Coordinates from telecommunication providers like AT&T, Rogers, Vodafone and Sprint
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Trained investigators on cell site and location analysis, understanding call detail records and how to prepare final reports through instructional documentation, video tutorials, and reference material
-</p>
-
-<hr />
-<hr />
-
-
-<p>
-<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER</h3>
-
-Environics Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON | Jan 2013 – Jun 2019
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Implemented fulfillment best practices to facilitate streamlined distribution of software licensing and data products to clients through sales enablement and batch scripting
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Programmed resources to automate stages of data formatting, restructuring and delivery
-
-&nbsp;&nbsp;&nbsp;&nbsp;● Facilitated strategic departmental planning by regularly advising senior leadership of technology and data operations for scalable monthly release schedules
-</p>
-
-<hr />
-<hr />
-
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-calendar-48.svg" /> 2022 - 2023
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> Data Engineer
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />
-
-<br>
-<hr />
-<hr />
-
-Currently Working on:
-- how-to-pandas
-- how-to-pyspark
-- how-to-arcpy
-- how-to-batch
-- how-to-excel
-
-
-<hr />
-<hr />
-Technical Skills and Tools used:
+</body>
 
 
 | - | - | - | - | - | - |
@@ -136,9 +71,12 @@ Technical Skills and Tools used:
 
 Source logos: https://simpleicons.org/
 
-
-
-Current Projects:
+Current projects:
+- how-to-pandas
+- how-to-pyspark
+- how-to-arcpy
+- how-to-batch
+- how-to-excel
 - GitHub Personal Profile
 - LinkedIn Online Courses
 - ESRI Online Courses
@@ -148,37 +86,10 @@ Current Projects:
 Future Projects:
 - Winnie and Theo's Animal Rescue
 
-<br>
-
-## **Intro**
-<hr />
-
-- Professional with more than 10 years of combined experience in management consulting, marketing, advertising, law enforcement, retail and QSR industries
-
-- Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
-
-- Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
-
-- Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
-
-![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
 
 <br>
 
-## **Contact Info**
-<hr />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mevasquez/">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-  </a>
-</p>
-
-
-https://vasquezme.github.io/leaflet-map/
-
-
-<br>
 
 ## **Relevant Experience and Projects**
 <hr />
@@ -417,6 +328,35 @@ You can add an image or a code block, too.
 <br>
 
 <!--
+
+<p>
+
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> DATA ENGINEER | Remote |
+| ------------- | ------------- | ------------- |
+
+<p>
+<p>
+
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Williams Engineering Canada - Flow Consulting | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST | Toronto, Hybrid |
+| ------------- | ------------- | ------------- |
+
+<p>
+<p>
+
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Uncharted Software - GeoTime | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL SUPPORT SPECIALIST | Toronto, Hybrid |
+| ------------- | ------------- | ------------- |
+
+<p>
+<p>
+
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Environics Analytics | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER | Toronto |
+| ------------- | ------------- | ------------- |
+
+<p>
+
+Environics Analytics
+
+
 ## **Tools, Resources and Coding**
 <hr />
 <br>
