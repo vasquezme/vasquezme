@@ -298,14 +298,7 @@ You can add an image or a code block, too.
 
 <br>
 
-
-<hr />
-<hr />
-
-
 </p>
-
-<br>
 
 <hr />
 <hr />
@@ -351,12 +344,8 @@ Future Projects:
 - Winnie and Theo's Animal Rescue
 </p>
 
-<br>
 
-<hr />
-<hr />
-
-<details>
+<!--
 
 <body>
     <summary><h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1></summary>
