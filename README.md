@@ -10,14 +10,30 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 <hr />
 
+<div align="center">
+
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. CAN. 🐕 🐈 🚴 💻 🧑‍🍳 🍪 ☕ 
 <br>
+
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-dog-64.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cat-100.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cycling-64.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-coding-50.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cooking-48.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-hiking-64.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-sushi-48.svg" />
+<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cookies-64.svg" />
+
+
 <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/
 <br>
 <img height="30" width="30" src="https://skillicons.dev/icons?i=linkedin" /> https://www.linkedin.com/in/mevasquez
 <br>
 <img height="30" width="30" src="https://skillicons.dev/icons?i=gmail" /> m.e.vasquez8@gmail.com</center>
 <br>
+
+
+</div>
 
 
 <hr />
