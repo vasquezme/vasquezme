@@ -1,33 +1,48 @@
-<img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="350"/>
+<hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/>
+<hr />
 
-<br>
 <center><h1>Hi! Welcome to my Github Page!</h1></center>
 <hr />
-
-
-The purpose of this space is to introduce myself and highlight current/past projects.
-
+<center><img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada. &nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> https://www.linkedin.com/in/mevasquez &nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> m.e.vasquez8@gmail.com</center>
+<hr />
+<hr />
+My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
+<hr />
 <hr />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Professional Bio:
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Professional Bio:</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Solution-driven analytical professional with experience managing socioeconomic, geospatial and transactional databases for software companies in the Marketing, Advertising, Law Enforcement and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
+</body>
 
-<hr />
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Education:
-
-<hr />
-
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
+<p>
+  Solution-driven analytical professional with experience managing socioeconomic, geospatial and transactional databases for software companies in the Marketing, Advertising, Law Enforcement and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
+</p>
 
 <hr />
+<hr />
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" /> Experience:
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Education:</h1>
 
-DATA ENGINEER
+</body>
 
-Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Oct. 2022 – Sept. 2023
+<p>
+  Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
+</p>
+
+<hr />
+<hr />
+
+<body>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Experience:</h1>
+
+</body>
+
+<p>
+<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Data Engineer</h3>
+
+Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Oct. 2022 – Sept. 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Developed SQL, Alteryx and Power BI data pipelines to clean, validate, summarize and report on inbound client and vendor data
 
@@ -37,38 +52,26 @@ Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Reported on data summaries, transfers, validation and ETL tasks to cross functional team of data
 analysts, data scientist, project managers, and account managers
+</p>
 
 <hr />
+<hr />
 
-BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST
 
-Williams Engineering Canada - Flow Consulting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | May 2021 – Apr 2022
+<p>
+<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST</h3>
 
-● Designed Project Management workflow capturing weekly payroll schedule, employee pay rates and
-multipliers through extract, transform and load tasks to produce Power BI dashboards
-● Captured business requirements, analyzed data suitability, updated job aids and created variable
-dictionaries as part of client on-boarding
-● Introduced MS Power Apps and automated workflows to successfully capture, organize and report on
+Williams Engineering Canada - Flow Consulting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | May 2021 – Apr 2022
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Designed Project Management workflow capturing weekly payroll schedule, employee pay rates and multipliers through extract, transform and load tasks to produce Power BI dashboards
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Captured business requirements, analyzed data suitability, updated job aids and created variable dictionaries as part of client on-boarding
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Introduced MS Power Apps and automated workflows to successfully capture, organize and report on
 change requests to reduce errors in project logs
 
-
-&nbsp;&nbsp;&nbsp;&nbsp; - GIS Analyst
-
-&nbsp;&nbsp;&nbsp;&nbsp; - Database Analyst
-
-&nbsp;&nbsp;&nbsp;&nbsp; - Technical Support Specialist
-
-&nbsp;&nbsp;&nbsp;&nbsp; - Fulfillment and Client Services Manager
-
-
-<br>
-
 <hr />
-
-
-<img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-address-48.svg" /> Toronto. Ontario, Canada.
-
-<img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> Currently in: Toronto. Ontario, Canada.
+<hr />
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics
 
@@ -76,22 +79,13 @@ change requests to reduce errors in project logs
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> Data Engineer
 
-
-
-
-
-
-
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />
-
-
-
-
-
-
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />
 
+<br>
+<hr />
+<hr />
 
 Currently Working on:
 - how-to-pandas
@@ -100,9 +94,9 @@ Currently Working on:
 - how-to-batch
 - how-to-excel
 
-<br>
-<hr />
 
+<hr />
+<hr />
 Technical Skills and Tools used:
 
 
