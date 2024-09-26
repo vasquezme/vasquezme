@@ -52,7 +52,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 </body>
 
 <p>
-<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Data Engineer</h3>
+<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />Data Engineer</h3>
 
 Kalibrate Technologies - eSite Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote | Oct. 2022 – Sept. 2023
 
@@ -71,19 +71,36 @@ analysts, data scientist, project managers, and account managers
 
 
 <p>
-<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST</h3>
+<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />TECHNICAL SUPPORT SPECIALIST</h3>
 
-Williams Engineering Canada - Flow Consulting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | May 2021 – Apr 2022
+Uncharted Software&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Hybrid | Oct 2019 – May 2021
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Designed Project Management workflow capturing weekly payroll schedule, employee pay rates and multipliers through extract, transform and load tasks to produce Power BI dashboards
+&nbsp;&nbsp;&nbsp;&nbsp;● Provided software solutions to clients in the international law enforcement community and promoted product adoption through online and in person training
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Captured business requirements, analyzed data suitability, updated job aids and created variable dictionaries as part of client on-boarding
+&nbsp;&nbsp;&nbsp;&nbsp;● Created scoping documents identifying Subscribers, Date and Time values, Type of Transmission, and Location Coordinates from telecommunication providers like AT&T, Rogers, Vodafone and Sprint
 
-&nbsp;&nbsp;&nbsp;&nbsp;● Introduced MS Power Apps and automated workflows to successfully capture, organize and report on
-change requests to reduce errors in project logs
+&nbsp;&nbsp;&nbsp;&nbsp;● Trained investigators on cell site and location analysis, understanding call detail records and how to prepare final reports through instructional documentation, video tutorials, and reference material
+</p>
 
 <hr />
 <hr />
+
+
+<p>
+<h3><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" />TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER</h3>
+
+Environics Analytics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON | Jan 2013 – Jun 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Implemented fulfillment best practices to facilitate streamlined distribution of software licensing and data products to clients through sales enablement and batch scripting
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Programmed resources to automate stages of data formatting, restructuring and delivery
+
+&nbsp;&nbsp;&nbsp;&nbsp;● Facilitated strategic departmental planning by regularly advising senior leadership of technology and data operations for scalable monthly release schedules
+</p>
+
+<hr />
+<hr />
+
 
 <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics
 
