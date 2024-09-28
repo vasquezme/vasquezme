@@ -26,16 +26,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 | `what3words ::`       |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-location-64.svg" /> [what3words.com/losses.times.crystals](https://what3words.com/losses.times.crystals) </div> |
 | `timezone ::`         |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-clock-64.svg" /> ET/EST </div> |
 | `pets ::`             |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-dog-64.svg" /> [More pictures](www.soon.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cat-64.svg" /> [More pictures](www.soon.com) </div> |
-| `interests ::`        | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cycling-64.svg" /> 
-<img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coding-50.svg" />
-<img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coffee-64.svg" /> 
-<img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cooking-48.svg" /> 
-<img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-hiking-64.svg" /> 
-<img height="30" width="30"  src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-sushi-64.svg" /> 
-<img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cookies-64.svg" /> </div> |
-
-
-
+| `interests ::`        | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cycling-64.svg" /> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coding-50.svg" /> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coffee-64.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cooking-48.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-hiking-64.svg" />  <img height="30" width="30"  src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-sushi-64.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cookies-64.svg" /> </div> |
 | `poi ::`              |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://maurvasq.github.io/leaflet-map/ </div> |
 | `linkedin ::`         |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-linkedin-64.svg" /> https://www.linkedin.com/in/mevasquez </div> |
 | `email ::`            |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> |
