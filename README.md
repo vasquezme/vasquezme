@@ -1,6 +1,7 @@
-<hr /><img src="https://github.com/user-attachments/assets/94b67935-7070-49c9-8137-bff27f22d1e9" width="1050" height="300"/><hr />
 
-
+<div align="center">
+<hr /><img src="https://github.com/user-attachments/assets/dd442b3d-0bb0-4b1a-a399-3e2ca5fefc18" width="950" height="250"/><hr />
+</div>
 <div align="center">
 
 <h1>Hi! Welcome to my GitHub Page!</h1>
