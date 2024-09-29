@@ -68,8 +68,32 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 </body>
 
 <p>
-  Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
+  <div align="left"> <img height="80" width="80" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/tmu_logo.svg" /> Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
 </p>
+
+<summary>Courses and Related Training</summary>
+
+- Spatial Data Science: The New Frontier in Analytics - ESRI,  Fall 2024
+- Data Analyst - International Institute of Business Analysis (IIBA), Fall 2024
+- Business Intelligence Specialist - International Institute of Business Analysis (IIBA), Fall 2024
+
+● Level Up: Advanced SQL
+● ETL In Python and SQL
+● Intermediate SQL: Data Reporting and Analysis
+● Microsoft SQL Server Essential Training 2022/2019
+● Relational Databases Essential Training
+● Database Foundations: Database Management and Administration
+● Tableau 2024.1: Essential Training
+● Power BI Essential Training
+● Data Literacy: Exploring and Describing Data
+
+
+```ruby
+   Links/Resources
+```
+
+</details>
+
 
 <br>
 
