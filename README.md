@@ -27,8 +27,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 | `linkedin::`         |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-linkedin-64.svg" /> https://www.linkedin.com/in/mevasquez </div> |
 | `email::`            |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> | `github::`            |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-github-64.svg" /> [m.e.vasquez8@gmail.com](https://github.com/vasquezme) </div> |
 
-|  |  |  |  |
-|-----|-----|-----|-----|
+|  |                  
+|-----|-----|
 | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-location-64.svg"  | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-location-64.svg"  |
 
 
