@@ -27,6 +27,8 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 | `::linkedin::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-linkedin-64.svg" /> https://www.linkedin.com/in/mevasquez </div> |
 | `::email::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> | `::github::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme </div> |
 
+<br>
+
 |  |  |
 |-----|-----|
 | <img height="300" width="300" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/winnie-badge.svg" />  | <img height="300" width="300" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/theo-badge.svg" />  |
@@ -71,21 +73,30 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
   <div align="left"> <img height="80" width="80" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/tmu_logo.svg" /> Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
 </p>
 
+
+<details>
+
 <summary>Courses and Related Training</summary>
+
+<br>
 
 - Spatial Data Science: The New Frontier in Analytics - ESRI,  Fall 2024
 - Data Analyst - International Institute of Business Analysis (IIBA), Fall 2024
 - Business Intelligence Specialist - International Institute of Business Analysis (IIBA), Fall 2024
 
-● Level Up: Advanced SQL
-● ETL In Python and SQL
-● Intermediate SQL: Data Reporting and Analysis
-● Microsoft SQL Server Essential Training 2022/2019
-● Relational Databases Essential Training
-● Database Foundations: Database Management and Administration
-● Tableau 2024.1: Essential Training
-● Power BI Essential Training
-● Data Literacy: Exploring and Describing Data
+<br>
+
+|  |  | 
+|-----|-----|
+| Level Up: Advanced SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Database Foundations: Database Management and Administration
+| ETL In Python and SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tableau 2024.1: Essential Training
+| Intermediate SQL: Data Reporting and Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Power BI Essential Training
+| Microsoft SQL Server Essential Training 2022/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Data Literacy: Exploring and Describing Data
+| Relational Databases Essential Training &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Others
+
+<br>
+
+Support you local library: https://www.torontopubliclibrary.ca/
 
 
 ```ruby
