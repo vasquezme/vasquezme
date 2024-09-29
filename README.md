@@ -20,12 +20,12 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 |  |  |  |  |
 |-----|-----|-----|-----|
-| `::location::` | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-location-64.svg" /> Toronto, Ontario. CAN. </div> | `::latitude,longitude::` | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-world-map-64.svg" /> [43.6472298100, -79.3924816681](https://www.google.com/maps/place/Toronto,+ON/@43.6581001,-79.3839192,8874m/data=!3m1!1e3!4m6!3m5!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843!16zL20vMGg3aDY?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D/) </div> |
-| `::what3words::` |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-location-64.svg" /> [what3words.com/losses.times.crystals](https://what3words.com/losses.times.crystals) </div> | `::timezone::`| <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-clock-64.svg" /> ET/EST </div> |
-| `::pets::`|  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-dog-64.svg" /> [More pictures](www.soon.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cat-64.svg" /> [More pictures](www.soon.com) </div> | `::interests::` | <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cycling-64.svg" /> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coding-50.svg" /> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-coffee-64.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cooking-48.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-hiking-64.svg" />  <img height="30" width="30"  src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-sushi-64.svg" />  <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-cookies-64.svg" /> </div> |
-| `::poi::`|  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/ </div> | `::poi::` |  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/  </div> |
-| `::linkedin::`|  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-linkedin-64.svg" /> https://www.linkedin.com/in/mevasquez </div> |
-| `::email::`|  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> | `::github::`|  <div align="left"> <img height="30" width="30" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme </div> |
+| `::location::` | <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-location-64.svg" /> Toronto, Ontario. CAN. </div> | `::latitude,longitude::` | <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-world-map-64.svg" /> [43.6472298100, -79.3924816681](https://www.google.com/maps/place/Toronto,+ON/@43.6581001,-79.3839192,8874m/data=!3m1!1e3!4m6!3m5!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843!16zL20vMGg3aDY?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D/) </div> |
+| `::what3words::` |  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-location-64.svg" /> [what3words.com/losses.times.crystals](https://what3words.com/losses.times.crystals) </div> | `::timezone::`| <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-clock-64.svg" /> ET/EST </div> |
+| `::pets::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-dog-64.svg" /> [More pictures](www.soon.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cat-64.svg" /> [More pictures](www.soon.com) </div> | `::interests::` | <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cycling-64.svg" /> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-coding-50.svg" /> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-coffee-64.svg" />  <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cooking-48.svg" />  <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-hiking-64.svg" />  <img height="30" width="30"  src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-sushi-64.svg" />  <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cookies-64.svg" /> </div> |
+| `::poi::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/ </div> | `::poi::` |  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-marker-48.svg" /> https://vasquezme.github.io/leaflet-map/  </div> |
+| `::linkedin::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-linkedin-64.svg" /> https://www.linkedin.com/in/mevasquez </div> |
+| `::email::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> | `::github::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme </div> |
 
 |  |  |
 |-----|-----|
@@ -39,7 +39,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Professional Bio:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Professional Bio:</h1>
 
 </body>
 
@@ -63,7 +63,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-education-48.svg" />Education:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-education-48.svg" />Education:</h1>
 
 </body>
 
@@ -77,7 +77,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-resume-48.svg" />Relevant Experience and Projects:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />Relevant Experience and Projects:</h1>
 
 </body>
 
@@ -325,7 +325,7 @@ You can add an image or a code block, too.
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-summary-48.svg" />Technical Skills and Tools used:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" />Technical Skills and Tools used:</h1>
 
 </body>
 
@@ -343,7 +343,7 @@ Source logos: https://simpleicons.org/
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Current Projects:</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Current Projects:</h1>
 
 </body>
 
@@ -373,7 +373,7 @@ Future Projects:
 <!--
 
 <body>
-    <summary><h1><img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1></summary>
+    <summary><h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Relevant Experience and Projects:</h1></summary>
 
 </body>
 
@@ -620,25 +620,25 @@ You can add an image or a code block, too.
 
 <p>
 
-| <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics | <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-summary-48.svg" /> DATA ENGINEER | Remote |
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Kalibrate Technologies - eSite Analytics | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> DATA ENGINEER | Remote |
 | ------------- | ------------- | ------------- |
 
 <p>
 <p>
 
-| <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-company-48.svg" /> Williams Engineering Canada - Flow Consulting | <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-summary-48.svg" /> BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST | Toronto, Hybrid |
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Williams Engineering Canada - Flow Consulting | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST | Toronto, Hybrid |
 | ------------- | ------------- | ------------- |
 
 <p>
 <p>
 
-| <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-company-48.svg" /> Uncharted Software - GeoTime | <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL SUPPORT SPECIALIST | Toronto, Hybrid |
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Uncharted Software - GeoTime | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL SUPPORT SPECIALIST | Toronto, Hybrid |
 | ------------- | ------------- | ------------- |
 
 <p>
 <p>
 
-| <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-company-48.svg" /> Environics Analytics | <img height="50" width="50" src="https://github.com/maurvasq/maurvasq/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER | Toronto |
+| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Environics Analytics | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER | Toronto |
 | ------------- | ------------- | ------------- |
 
 <p>
@@ -711,7 +711,7 @@ Resources:
 <!--
 ## **Mapping4Fun**
 
-**maurvasq/maurvasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vasquezme/vasquezme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
