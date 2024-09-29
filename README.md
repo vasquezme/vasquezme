@@ -29,7 +29,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 |  |  |
 |-----|-----|
-| <img height="200" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/theo-badge.svg" />  | <img height="200" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/winnie-badge.svg" />  |
+| <img height="200" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/winnie-badge.svg" />  | <img height="200" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/wtheo-badge.svg" />  |
 
 </div>
 
