@@ -73,13 +73,16 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 </body>
 
 <p>
+    <div align="center"> <img height="auto" width="auto" src="https://github.com/user-attachments/assets/d124d988-8115-4fe9-b126-a859376e5d9b" />
+
   <div align="left"> <img height="80" width="80" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/tmu_logo.svg" /> Bachelor of Arts, Geographic Analysis - Toronto Metropolitan University, 2011
+
 </p>
 
 
-<details>
+<br>
 
-<summary>Courses and Related Training</summary>
+ <h2>Courses and Related Training</h2>
 
 <br>
 
@@ -96,16 +99,6 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 | Intermediate SQL: Data Reporting and Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Power BI Essential Training
 | Microsoft SQL Server Essential Training 2022/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Data Literacy: Exploring and Describing Data
 | Relational Databases Essential Training &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Others
-
-<br>
-
-
-```ruby
-   Links/Resources
-```
-
-</details>
-
 
 <br>
 
