@@ -14,11 +14,11 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 Currently working with:
 
- - ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detction over Space and Time, and Site Suitability
- - MS SQL for database management: sales, customer transactions, and location data
- - Power BI for data visualization: sales, customer transactions, and location data
- - Python and libraries for data cleaning and manipulation
- - Leaflet, ArcMap Pro and Google Earth for mapping
+ - :globe_with_meridians: :earth_americas: :nazar_amulet:  ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detction over Space and Time, and Site Suitability
+ - :desktop_computer: :date:	:file_cabinet:	MS SQL for database management: sales, customer transactions, location data and market segmentation
+ - :chart_with_upwards_trend: :round_pushpin:	:family_man_woman_girl_boy: Power BI for data visualization: sales, customer transactions, and location data
+ - :panda_face:	:star2:	:mag:	Python and libraries for data cleaning and manipulation
+ - :world_map: :dart: :houses: Leaflet, ArcMap Pro and Google Earth for mapping
 
 Currently working on:
 
