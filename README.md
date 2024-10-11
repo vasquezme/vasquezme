@@ -82,10 +82,12 @@ Responsibilities:
  - 
 
 2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists
+
 Tools: Power BI | MS Power Apps
 Responsibilities: 
 
 2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist
+
 Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce
 Responsibilities: 
  - Requirements Gathering
@@ -97,6 +99,7 @@ Responsibilities:
  - Client activity support and tracking
 
 2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager
+
 Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 Responsibilities: 
  - Data products cleaning and ETL processing for data lakes and distribution
