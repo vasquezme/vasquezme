@@ -74,7 +74,52 @@ Currently working on:
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
+2022 - 2023 - Kalibrate Tehnology and eSite Analytics - Data Engineer
+Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligence | Inkscape
+Responsibilities: 
+ - Requirements Gathering
+ - Data migration into SaaS BI platforms
+ - 
 
+2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists
+Tools: Power BI | MS Power Apps
+Responsibilities: 
+
+2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist
+Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce
+Responsibilities: 
+ - Requirements Gathering
+ - Data migration into SaaS cell phone forensics mapping and analyticcs platform
+ - Software pre-sales demo.
+ - License fulfillment
+ - Technical Support and installation support
+ - Training and monthly demo.
+ - Client activity support and tracking
+
+2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager
+Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
+Responsibilities: 
+ - Data products cleaning and ETL processing for data lakes and distribution
+ - Product management support
+ -   Pre-release product documentation
+ -   Product bundling
+ - Client services
+ -   Zendesk implementation with macros and triggers
+ - IT
+ -   SFTP management and user accessibility
+ -   data governance and activity logs for data governance
+ - Fulfillment
+ -   SaaS platform license distribution
+ -   Data product distribution
+ - Client Advocacy
+ -   Requirements gathering
+ -   Pre-sales demos., SaaS platform demos. and data support
+ -   Customer Segementation Training
+ -   Marketing insights and presentation
+
+2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS
+
+2011 - 2011 - Bell Canada Inc. - GeoSpatial Analyst
 
 </p>
 
