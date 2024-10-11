@@ -74,16 +74,16 @@ Currently working on:
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
-2022 - 2023 - Kalibrate Tehnology and eSite Analytics - Data Engineer
+**2022 - 2023 - Kalibrate Tehnology and eSite Analytics - Data Engineer**
 
 Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligence | Inkscape
 
 Responsibilities: 
  - Requirements Gathering
  - Data migration into SaaS BI platforms
- - 
 
-2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists
+
+**2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists**
 
 Tools: Power BI | MS Power Apps
 
@@ -91,7 +91,7 @@ Responsibilities:
 - Client Support
 <br>
 
-2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist
+**2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist**
 
 Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce
 
@@ -105,7 +105,7 @@ Responsibilities:
  - Client activity support and tracking
 <br>
 
-2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager
+**2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager**
 
 Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 
@@ -129,10 +129,10 @@ Responsibilities:
  -   Marketing insights and presentation
 <br>
 
-2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS
+**2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS**
 <br>
 
-2011 - 2011 - Bell Canada Inc. - GeoSpatial Analyst
+**2011 - 2011 - Bell Canada Inc. - GeoSpatial Analyst**
 <br>
 
 </p>
