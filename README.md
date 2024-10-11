@@ -127,8 +127,7 @@ Responsibilities:
  - Client Advocacy
      - Requirements gathering
      - Pre-sales demos., SaaS platform demos. and data support
-     - Customer Segementation Training
-     - Marketing insights and presentation
+     - Customer segmentation and market insights
 <br>
 
 **2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS**
