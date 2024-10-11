@@ -85,6 +85,8 @@ Responsibilities:
 
 Tools: Power BI | MS Power Apps
 Responsibilities: 
+- Client Support
+<br>
 
 2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist
 
@@ -97,6 +99,7 @@ Responsibilities:
  - Technical Support and installation support
  - Training and monthly demo.
  - Client activity support and tracking
+<br>
 
 2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager
 
@@ -119,10 +122,13 @@ Responsibilities:
  -   Pre-sales demos., SaaS platform demos. and data support
  -   Customer Segementation Training
  -   Marketing insights and presentation
+<br>
 
 2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS
+<br>
 
 2011 - 2011 - Bell Canada Inc. - GeoSpatial Analyst
+<br>
 
 </p>
 
