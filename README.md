@@ -82,6 +82,7 @@ Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligen
 Responsibilities: 
  - Requirements Gathering
  - Data migration into SaaS BI platforms
+ - Process documentation
 <br>
 
 **2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists**
@@ -94,11 +95,11 @@ Responsibilities:
 
 **2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist**
 
-Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce
+Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | Wordpress
 
 Responsibilities: 
  - Requirements Gathering
- - Data migration into SaaS cell phone forensics mapping and analyticcs platform
+ - Data migration into SaaS cell phone forensics mapping and analytics platform
  - Software pre-sales demo.
  - License fulfillment
  - Technical Support and installation support
@@ -111,7 +112,7 @@ Responsibilities:
 Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 
 Responsibilities:
- - Data Production
+ - Data production
      - Data products cleaning and ETL processing for data lakes and distribution
  - Product management support
      - Pre-release product documentation
