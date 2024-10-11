@@ -73,6 +73,7 @@ Currently working on:
 - Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
+<br>
 
 **2022 - 2023 - Kalibrate Tehnology and eSite Analytics - Data Engineer**
 
@@ -81,7 +82,7 @@ Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligen
 Responsibilities: 
  - Requirements Gathering
  - Data migration into SaaS BI platforms
-
+<br>
 
 **2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists**
 
@@ -109,24 +110,25 @@ Responsibilities:
 
 Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 
-Responsibilities: 
- - Data products cleaning and ETL processing for data lakes and distribution
+Responsibilities:
+ - Data Production
+     - Data products cleaning and ETL processing for data lakes and distribution
  - Product management support
- -   Pre-release product documentation
- -   Product bundling
+     - Pre-release product documentation
+     - Product bundling
  - Client services
- -   Zendesk implementation with macros and triggers
+     - Zendesk implementation with macros and triggers
  - IT
- -   SFTP management and user accessibility
- -   data governance and activity logs for data governance
+     - SFTP management and user accessibility
+     - data governance and activity logs for data governance
  - Fulfillment
- -   SaaS platform license distribution
- -   Data product distribution
+     - SaaS platform license distribution
+     - Data product distribution
  - Client Advocacy
- -   Requirements gathering
- -   Pre-sales demos., SaaS platform demos. and data support
- -   Customer Segementation Training
- -   Marketing insights and presentation
+     - Requirements gathering
+     - Pre-sales demos., SaaS platform demos. and data support
+     - Customer Segementation Training
+     - Marketing insights and presentation
 <br>
 
 **2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS**
