@@ -1,5 +1,5 @@
 <div align="center">
-<hr /><img src="https://github.com/user-attachments/assets/dd442b3d-0bb0-4b1a-a399-3e2ca5fefc18" width="950" height="250"/><hr />
+<hr /><img src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/earthclip.png" width="auto" height="auto"/><hr />
 </div>
 <div align="center">
 
