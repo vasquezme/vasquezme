@@ -14,7 +14,7 @@ My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this s
 
 Currently working with:
 
- - :globe_with_meridians: :earth_americas: :nazar_amulet:  ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detction over Space and Time, and Site Suitability
+ - :globe_with_meridians: :earth_americas: :nazar_amulet:  ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detection over Space and Time, and Site Suitability
  - :desktop_computer: :date:	:file_cabinet:	MS SQL for database management: sales, customer transactions, location data and market segmentation
  - :chart_with_upwards_trend: :round_pushpin:	:family_man_woman_girl_boy: Power BI for data visualization: sales, customer transactions, and location data
  - :panda_face:	:star2:	:mag:	Python and libraries for data cleaning and manipulation
@@ -23,9 +23,9 @@ Currently working with:
 Currently working on:
 
 - How-to-guides for Python libraries: Pandas, GeoPandas, PySpark, ArcPy and others
-- How-to-guides for ETL and data enginneering tasks: Data wrangling, data cleaning and related data prep
+- How-to-guides for ETL and data engineering tasks: Data wrangling, data cleaning and related data prep
 - Continued Learning and Certification: MS Data Analyst, IIBA Data Analyst, IIBA BI Analyst, ESRI Academy, LinkedIn Learning, Alteryx and other online-resources
-- Collecting and revisitng past projects using updated data and software tools
+- Collecting and revistng past projects using updated data and software tools
 - Github Profile
 
 
