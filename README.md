@@ -121,7 +121,7 @@ Responsibilities:
      - Zendesk implementation with macros and triggers
  - IT
      - SFTP management and user accessibility
-     - data governance and activity logs for data governance
+     - Process documentation for data governance
  - Fulfillment
      - SaaS platform license distribution
      - Data product distribution
