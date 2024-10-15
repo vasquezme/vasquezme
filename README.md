@@ -75,7 +75,7 @@ Currently working on:
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 <br>
 
-**2022 - 2023 - Kalibrate Tehnology and eSite Analytics - Data Engineer**
+**2022 - 2023 - Kalibrate Technology and eSite Analytics - Data Engineer**
 
 Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligence | Inkscape
 
@@ -95,7 +95,7 @@ Responsibilities:
 
 **2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist**
 
-Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | Wordpress
+Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | WordPress
 
 Responsibilities: 
  - Requirements Gathering
@@ -134,7 +134,7 @@ Responsibilities:
 **2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS**
 <br>
 
-**2011 - 2011 - Bell Canada Inc. - GeoSpatial Analyst**
+**2011 - 2011 - Bell Canada Inc. - Geospatial Analyst**
 <br>
 
 </p>
