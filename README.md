@@ -109,7 +109,7 @@ Responsibilities:
  - Training and monthly demo.
  - Client activity support and tracking
 
-Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | WordPress |
+Tools: Excel | GeoTime | TellFinder | ArcMap | Freshdesk | Salesforce | WordPress |
 
 Website: [GeoTime](https://www.geotime.com/) 
 
@@ -138,6 +138,9 @@ Responsibilities:
  - Fulfillment
      - SaaS platform license distribution
      - Data product distribution
+ - Sales Enablement
+     - Account managment and business rules
+     - SaaS licences and data product analytics
  - Client Advocacy
      - Requirements gathering
      - Pre-sales demos., SaaS platform demos. and data support
@@ -156,8 +159,6 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 **2011 - 2011 - Bell Canada Inc.** - *Geospatial Analyst*
 
 </p>
-
-<br>
 
 <hr />
 <hr />
