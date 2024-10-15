@@ -73,29 +73,32 @@ Currently working on:
 - Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
 
 - Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
-<br>
 
-**2022 - 2023 - Kalibrate Technology and eSite Analytics - Data Engineer**
+<hr />
 
-Tools: Alteryx | MS SQL | Power BI | Trailblazer | Kalibrate Location Intelligence | Inkscape
+**2022 - 2023 - Kalibrate Technology and eSite Analytics** - *Data Engineer*
 
 Responsibilities: 
  - Requirements Gathering
  - Data migration into SaaS BI platforms
  - Process documentation
-<br>
 
-**2021 - 2022 - Williams Engineering and Flow Consulting - Business Intelligence Analyst Reporting Specialists**
+Tools: Alteryx | MS SQL | Power BI | Excel | Trailblazer | Kalibrate Location Intelligence | Inkscape | 
 
-Tools: Power BI | MS Power Apps
+Website: [Kalibrate](https://kalibrate.com/) 
+
+<hr />
+
+**2021 - 2022 - Williams Engineering and Flow Consulting** - *Business Intelligence Analyst Reporting Specialist* 
 
 Responsibilities: 
 - Client Support
-<br>
 
-**2019 - 2021 - Uncharted Software and GeoTime - Technical Support Specialist**
+Tools: MS Power Apps | Power BI | 
 
-Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | WordPress
+<hr />
+
+**2019 - 2021 - Uncharted Software and GeoTime** - *Technical Support Specialist*
 
 Responsibilities: 
  - Requirements Gathering
@@ -105,20 +108,30 @@ Responsibilities:
  - Technical Support and installation support
  - Training and monthly demo.
  - Client activity support and tracking
-<br>
 
-**2012 - 2019 - Environics Analytics - Technical Fulfillment and Client Services Manager**
+Tools: Excel | GeoTime | ArcMap | Freshdesk | Salesforce | WordPress |
 
-Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
+Website: [GeoTime](https://www.geotime.com/) 
+
+<hr />
+
+**2012 - 2019 - Environics Analytics** - *Technical Fulfillment and Client Services Manager*
 
 Responsibilities:
  - Data production
-     - Data products cleaning and ETL processing for data lakes and distribution
+     - Data products cleaning and standardization
+     - ETL processing for data lakes and client distribution
  - Product management support
-     - Pre-release product documentation
+     - Pre-release and release product documentation
      - Product bundling
+     - SaaS platform UAT testing and bug reporting
  - Client services
      - Zendesk implementation with macros and triggers
+     - Client support through phone, email and ticketing systems
+     - Data walkthroughs
+     - SaaS platform training
+     - Customer and trade area segmentation analysis
+     - Geodemographics and location analysis training
  - IT
      - SFTP management and user accessibility
      - Process documentation for data governance
@@ -129,13 +142,18 @@ Responsibilities:
      - Requirements gathering
      - Pre-sales demos., SaaS platform demos. and data support
      - Customer segmentation and market insights
-<br>
 
-**2011 - 2012 - NetGain Partners - Research Associate, Data Mining and GIS**
-<br>
+Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 
-**2011 - 2011 - Bell Canada Inc. - Geospatial Analyst**
-<br>
+Website: [Environics Analytics](https://environicsanalytics.com/en-ca) 
+
+<hr />
+
+**2011 - 2012 - NetGain Partners** - *Research Associate, Data Mining and GIS*
+
+<hr />
+
+**2011 - 2011 - Bell Canada Inc.** - *Geospatial Analyst*
 
 </p>
 
