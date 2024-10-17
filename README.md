@@ -42,7 +42,7 @@ Currently working on:
 | `::pets::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-dog-64.svg" /> [More pictures](www.soon.com) <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cat-64.svg" /> [More pictures](www.soon.com) </div> | `::interests::` | <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cycling-64.svg" /> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-coding-50.svg" /> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-coffee-64.svg" />  <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-cooking-48.svg" />  <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-hiking-64.svg" />  <img height="30" width="30"  src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-sushi-64.svg" /> </div> |
 | `::to_poi::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-map-64.png" /> [Toronto's Main Attractions](https://vasquezme.github.io/leaflet-map/) </div> | `::es_poi::` |  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-volcano-48.png" /> [El Salvador's Volcanos](https://vasquezme.github.io/leaflet-map-es/) </div> |
 | `::linkedin::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-linkedin-64.svg" /> www.linkedin.com/in/mevasquez </div> | `::email::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com </div> 
-| `::library:::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-library-64.png" /> www.torontopubliclibrary.ca/ | `::github::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme </div> |
+| `::library::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-library-64.png" /> www.torontopubliclibrary.ca/ | `::github::`|  <div align="left"> <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme </div> |
 
 <br>
 
@@ -112,6 +112,7 @@ Responsibilities:
  - Technical Support and installation support
  - Training and monthly demo.
  - Client activity support and tracking
+ - SaaS and desktop UAT and bug reporting
 
 Tools: Excel | GeoTime | TellFinder | ArcMap | Freshdesk | Salesforce | WordPress |
 
