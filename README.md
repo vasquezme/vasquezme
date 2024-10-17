@@ -98,6 +98,8 @@ Tools: MS Power Apps | Power BI |
 
 <hr />
 
+<img height="auto" width="200" src="https://github.com/user-attachments/assets/fc74775c-e502-4509-8c01-f8e54435221d" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/geotime.jpg" /> 
+
 **2019 - 2021 - Uncharted Software and GeoTime** - *Technical Support Specialist*
 
 Responsibilities: 
@@ -114,6 +116,8 @@ Tools: Excel | GeoTime | TellFinder | ArcMap | Freshdesk | Salesforce | WordPres
 Website: [GeoTime](https://www.geotime.com/) 
 
 <hr />
+
+<img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/environics-analytics-logo.svg" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/e5.png" /> 
 
 **2012 - 2019 - Environics Analytics** - *Technical Fulfillment and Client Services Manager*
 
