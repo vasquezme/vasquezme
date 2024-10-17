@@ -100,7 +100,7 @@ Tools: MS Power Apps | Power BI |
 
 <hr />
 
-<img height="auto" width="200" src="https://github.com/user-attachments/assets/fc74775c-e502-4509-8c01-f8e54435221d" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/geotime.jpg" /> 
+<img height="auto" width="200" src="https://github.com/user-attachments/assets/fc74775c-e502-4509-8c01-f8e54435221d" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/geotime.jpg" /> <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/tellfinder.png" /> 
 
 **2019 - 2021 - Uncharted Software and GeoTime** - *Technical Support Specialist*
 
