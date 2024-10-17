@@ -76,6 +76,8 @@ Currently working on:
 
 <hr />
 
+<img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/kalibrate.svg" />   <img height="auto" width="100" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/esite.png" />   <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/trailblazer.png" /> 
+
 **2022 - 2023 - Kalibrate Technology and eSite Analytics** - *Data Engineer*
 
 Responsibilities: 
