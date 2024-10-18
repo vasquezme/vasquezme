@@ -182,9 +182,6 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
 </p>
 
-
-<br>
-
  <h2>Courses and Related Training</h2>
 
 <br>
