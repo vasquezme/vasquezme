@@ -193,12 +193,12 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 <br>
 
 |  |  | 
-|-----:|-----|
+|:-----|:-----|
 | Level Up: Advanced SQL | Database Foundations: Database Management and Administration
-| ETL In Python and SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tableau 2024.1: Essential Training
-| Intermediate SQL: Data Reporting and Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Power BI Essential Training
-| Microsoft SQL Server Essential Training 2022/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Data Literacy: Exploring and Describing Data
-| Relational Databases Essential Training &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Marketing Analytics Setting and Measuring KPIs
+| ETL In Python and SQL | Tableau 2024.1: Essential Training
+| Intermediate SQL: Data Reporting and Analysis | Power BI Essential Training
+| Microsoft SQL Server Essential Training 2022/2019 | Data Literacy: Exploring and Describing Data
+| Relational Databases Essential Training | Marketing Analytics Setting and Measuring KPIs
 
 <br>
 
