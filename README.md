@@ -12,7 +12,7 @@
 
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
 
-Currently working with:
+Currently working with...
 
  - :globe_with_meridians: :earth_americas: :nazar_amulet:  ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detection over Space and Time, and Site Suitability
  - :desktop_computer: :date:	:file_cabinet:	MS SQL for database management: sales, customer transactions, location data and market segmentation
@@ -20,14 +20,14 @@ Currently working with:
  - :panda_face:	:star2:	:mag:	Python and libraries for data cleaning and manipulation
  - :world_map: :dart: :houses: Leaflet, ArcMap Pro and Google Earth for mapping
 
-Currently working on:
+Currently working on...
 
-- How-to-guides for Python libraries: Pandas, GeoPandas, PySpark, ArcPy and others
-- How-to-guides for ETL and data engineering tasks: Data wrangling, data cleaning and related data prep
+- How-to-guides for Python libraries: Pandas, GeoPandas, PySpark, ArcPy, Excel and ETL tasks
+- How-to-guides for ETL and data engineering tasks: Data wrangling, data cleaning, batching and related data prep
 - Continued Learning and Certification: MS Data Analyst, IIBA Data Analyst, IIBA BI Analyst, ESRI Academy, LinkedIn Learning, Alteryx and other online-resources
 - Collecting and revistng past projects using updated data and software tools
 - Github Profile
-
+- Winnie's Hotel and Theo's Restaurant
 
 <div align="center">
     
@@ -397,33 +397,6 @@ Source logos: https://simpleicons.org/
 <hr />
 <hr />
 
-<body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-user-menu-male-48.svg" />Current Projects:</h1>
-
-</body>
-
-<p>
-Current projects:
-
-- how-to-pandas
-- how-to-pyspark
-- how-to-arcpy
-- how-to-batch
-- how-to-excel
-- GitHub Personal Profile
-- LinkedIn Online Courses
-- ESRI Online Courses
-- MS Online Courses
-- Coding
-
-Future Projects:
-- Winnie and Theo's Animal Rescue
-</p>
-
-
-<hr />
-<hr />
-
 
 <!--
 
@@ -521,88 +494,6 @@ You can add an image or a code block, too.
 You can add an image or a code block, too.
 
 </details>
-
-### Elections Ontario - 2022 General Elections
-
-<details>
-
-<summary>Elections Ontario - 2022 General Elections</summary>
-
-  - Polling Stations 
-  - Voter response rates
-
-Elections Ontario - 2022 General Election ArcMap Pro
-
-![2022GeneralElections](https://github.com/user-attachments/assets/23f6b141-d27e-4992-afc2-d0b938d153a7)
-
-</details>
-
-### TEA - PM2.5 in the City of Toronto
-
-<details>
-
-<summary>TEA - PM2.5 in the City of Toronto</summary>
-
-  - TEA Harmful toxins reported to City of Toronto  
-  - Highlight2
-
-![TEA1](https://github.com/user-attachments/assets/fa60bb89-c551-46e5-91a8-6ab38d080077)
-
-![TEAPM25](https://github.com/user-attachments/assets/da68e8ac-56ac-45a8-b362-ab3e34df0f58)
-
-![teapm25_2](https://github.com/user-attachments/assets/8c8b27e8-e7ec-4b7f-95f5-e6eb0e3e9119)
-
-
-</details>
-
-### City of Toronto Arts Incubator Program
-
-<details>
-
-<summary>City of Toronto Arts Incubator Program</summary>
-
-  - Highlight1
-  - Highlight2
-
-</details>
-
-### Artscape
-
-<details>
-
-<summary>Artscape</summary>
-
-  - Highlight1
-  - Highlight2
-
-![Launchpad](https://github.com/user-attachments/assets/98337e9d-7d43-4abf-ae97-cc86cecd4f93)
-
-</details>
-
-
-<details>
-
-<summary>CC Field Feasibility Study</summary>
-
-Business Plan Outline
-
-![CC Field Outline](https://github.com/user-attachments/assets/4431d6e5-884c-4b6a-8a09-0957b8fdbd94)
-
-Business Plan Schedule
-![CC Schedule](https://github.com/user-attachments/assets/9e338aec-cab3-4589-8876-798e74d0eeb4)
-
-</details>
-
-### Deforestation in Rodonia, Brazil
-
-<details>
-
-<summary>Deforestation in Rodonia, Brazil</summary>
-
-
-
-</details>
-
 
 
 <br>
