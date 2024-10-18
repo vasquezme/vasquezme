@@ -78,7 +78,7 @@ Currently working on:
 
 <img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/kalibrate.svg" />   <img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/esite.png" />   <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/trailblazer.png" /> 
 
-**2022 - 2023 - Kalibrate Technology and eSite Analytics** - *Data Engineer*
+**Kalibrate Technology and eSite Analytics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Data Engineer* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 - 2023
 
 Responsibilities: 
  - Requirements Gathering
@@ -91,7 +91,7 @@ Website: [Kalibrate](https://kalibrate.com/)
 
 <hr />
 
-**2021 - 2022 - Williams Engineering and Flow Consulting** - *Business Intelligence Analyst Reporting Specialist* 
+**Williams Engineering and Flow Consulting** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Business Intelligence Analyst Reporting Specialist* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 - 2022
 
 Responsibilities: 
 - Client Support
@@ -102,7 +102,7 @@ Tools: MS Power Apps | Power BI |
 
 <img height="auto" width="200" src="https://github.com/user-attachments/assets/fc74775c-e502-4509-8c01-f8e54435221d" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/geotime.jpg" /> <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/tellfinder.png" /> 
 
-**2019 - 2021 - Uncharted Software and GeoTime** - *Technical Support Specialist*
+**Uncharted Software and GeoTime** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Technical Support Specialist* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 - 2021
 
 Responsibilities: 
  - Requirements Gathering
@@ -122,7 +122,7 @@ Website: [GeoTime](https://www.geotime.com/)
 
 <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/environics-analytics-logo.svg" />  <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/e5.png" /> 
 
-**2012 - 2019 - Environics Analytics** - *Technical Fulfillment and Client Services Manager*
+**Environics Analytics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Technical Fulfillment and Client Services Manager* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012 - 2019
 
 Responsibilities:
  - Data production
@@ -159,11 +159,11 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
 <hr />
 
-**2011 - 2012 - NetGain Partners** - *Research Associate, Data Mining and GIS*
+**NetGain Partners**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Associate, Data Mining and GIS*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011 - 2012
 
 <hr />
 
-**2011 - 2011 - Bell Canada Inc.** - *Geospatial Analyst*
+**Bell Canada Inc.**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Geospatial Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011 - 2011
 
 </p>
 
