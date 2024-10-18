@@ -76,7 +76,7 @@ Currently working on:
 
 <hr />
 
-<img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/kalibrate.svg" />   <img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/esite.png" />   <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/trailblazer.png" /> 
+<img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/kalibrate.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="auto" width="150" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/esite.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/trailblazer.png" /> 
 
 **Kalibrate Technology and eSite Analytics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Data Engineer* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 - 2023
 
@@ -170,7 +170,6 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 <hr />
 <hr />
 
-
 <body>
     <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-education-48.svg" />Education:</h1>
 
@@ -197,8 +196,8 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 <br>
 
 |  |  | 
-|-----|-----|
-| Level Up: Advanced SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Database Foundations: Database Management and Administration
+|-----:|-----|
+| Level Up: Advanced SQL | Database Foundations: Database Management and Administration
 | ETL In Python and SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tableau 2024.1: Essential Training
 | Intermediate SQL: Data Reporting and Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Power BI Essential Training
 | Microsoft SQL Server Essential Training 2022/2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Data Literacy: Exploring and Describing Data
@@ -216,13 +215,10 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
 <p>
 
-### Data Engineer
-
 <details>
-
-
-
-<summary>Data Engineer</summary>
+ 
+<summary><b>Data Engineer</b></summary>
+<br>
 
   - ETL pipelines from a variety of sources in to SaaS BI platform
   - Database management for sales, transactions and customer records
@@ -245,6 +241,7 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 <details>
 
 <summary><b>Reporting Analyst</b></summary>
+<br>
 
   - Created workflow to present Power BI reports
   - Implemented process to capture change requests inpacts on resources and project deliverables
@@ -255,6 +252,7 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 <details>
 
 <summary><b>Technical Support</b></summary>
+<br>
 
   - Software technical support and product advocate
   - Pre-sales product demos., software training, product webinars, product fulfillment, community forums and sales enablement
@@ -262,13 +260,11 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 
 </details>
 
-### Product Licensing, Fulfillment and Support
-
 <details>
 
-<summary>Product Licensing, Fulfillment and Support</summary>
+<summary><b>Product Licensing, Fulfillment and Support</b></summary>
+<br>
 
-  - Highlight1
   - Batch Scripting for Data Warehousing
       - Creating file managment process to create data management system
       - CMD line Batch Scripting using XCOPY, MD, MOVE, DEL, REN, TREE and others to manage files and directories across business systems.
@@ -279,6 +275,7 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 <details>
 
 <summary><b>Product Mangement</b></summary>
+<br>
 
   - Data production and product bundling for distribtion 
   - Data QA
@@ -289,6 +286,7 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 <details>
 
 <summary><b>Client Services</b></summary>
+<br>
 
   - Client advocacy 
   - CRM reporting
@@ -299,6 +297,7 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 <details>
 
 <summary><b>Elections Ontario - 2022 General Elections</b></summary>
+<br>
 
   - Polling Stations 
   - Voter response rates
@@ -311,7 +310,8 @@ Elections Ontario - 2022 General Election ArcMap Pro
 
 <details>
 
-<summary>Toronto Environmental Alliance - PM2.5 in the City of Toronto</summary>
+<summary><b>Toronto Environmental Alliance - PM2.5 in the City of Toronto</b></summary>
+<br>
 
   - Harmful toxins reported to City of Toronto
 
@@ -325,7 +325,8 @@ Elections Ontario - 2022 General Election ArcMap Pro
 
 <details>
 
-<summary>City of Toronto Arts Incubator Program</summary>
+<summary><b>City of Toronto Arts Incubator Program</b></summary>
+<br>
 
   - Industry research and focus groups
   - Report writing
@@ -335,6 +336,7 @@ Elections Ontario - 2022 General Election ArcMap Pro
 <details>
 
 <summary><b>Artscape</b></summary>
+<br>
 
   - Industry research and survey distribution
   - Data analysis
@@ -347,6 +349,7 @@ Elections Ontario - 2022 General Election ArcMap Pro
 <details>
 
 <summary><b>Centennial College Field Feasibility Study</b></summary>
+<br>
 
   - Business Plan for building multipurpose sports field
   - Market research
@@ -362,7 +365,8 @@ Business Plan Schedule
 
 <details>
 
-<summary>Deforestation in Rodonia, Brazil</summary>
+<summary><b>Deforestation in Rodonia, Brazil</b></summary>
+<br>
 
   - Remote sensing and image analysis for pattern detection
   - Change over time analysis
@@ -432,17 +436,6 @@ Future Projects:
 </body>
 
 
-
-### Data Engineer
-
-<details>
-
-<summary>Data Engineer</summary>
-
-  - ETL pipelines from a variety of sources in to SaaS BI platform
-  - Database management for sales, transactions and customer records
-  - Tools used include: Alteryx, SQL, Power BI, TrailBlazer, Kalibrate Location Intelligence
-
 Database Diagram for Winnie's Hotel and Theo's Resto
 
 ![Databasediagrams](https://github.com/user-attachments/assets/4834a7cc-1942-4483-adb4-a1b87d94bf18)
@@ -455,10 +448,6 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 
 ![winnietheodashboard](https://github.com/user-attachments/assets/a0c9c395-ebec-4976-b962-c906c8a9e29b)
 
-
-```ruby
-   Links/Resources
-```
 
 </details>
 
@@ -474,13 +463,8 @@ Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 
 You can add an image or a code block, too.
 
-```ruby
-   Links/Resources
-```
-
 </details>
 
-### Technical Support
 
 <details>
 
@@ -510,11 +494,6 @@ You can add an image or a code block, too.
       - CMD line Batch Scripting using XCOPY, MD, MOVE, DEL, REN, TREE and others to manage files and directories across business systems.
       - CMD line used to call on WINZIP, zip and rename files for distribution
 
-You can add an image or a code block, too.
-
-```ruby
-   Links/Resources
-```
 
 </details>
 
@@ -530,13 +509,8 @@ You can add an image or a code block, too.
 
 You can add an image or a code block, too.
 
-```ruby
-   Links/Resources
-```
-
 </details>
 
-### Client Services
 
 <details>
 
@@ -548,10 +522,6 @@ You can add an image or a code block, too.
 
 
 You can add an image or a code block, too.
-
-```ruby
-   Links/Resources
-```
 
 </details>
 
@@ -567,10 +537,6 @@ You can add an image or a code block, too.
 Elections Ontario - 2022 General Election ArcMap Pro
 
 ![2022GeneralElections](https://github.com/user-attachments/assets/23f6b141-d27e-4992-afc2-d0b938d153a7)
-
-```ruby
-   Links/Resources
-```
 
 </details>
 
@@ -589,10 +555,7 @@ Elections Ontario - 2022 General Election ArcMap Pro
 
 ![teapm25_2](https://github.com/user-attachments/assets/8c8b27e8-e7ec-4b7f-95f5-e6eb0e3e9119)
 
-You can add an image or a code block, too.
-```ruby
-   Links/Resources
-```
+
 </details>
 
 ### City of Toronto Arts Incubator Program
@@ -604,11 +567,6 @@ You can add an image or a code block, too.
   - Highlight1
   - Highlight2
 
-You can add an image or a code block, too.
-
-```ruby
-   Links/Resources
-```
 </details>
 
 ### Artscape
@@ -622,23 +580,12 @@ You can add an image or a code block, too.
 
 ![Launchpad](https://github.com/user-attachments/assets/98337e9d-7d43-4abf-ae97-cc86cecd4f93)
 
-You can add an image or a code block, too.
-
-```ruby
-   Links/Resources
-```
 </details>
 
-### CC Field Feasibility Study
 
 <details>
 
 <summary>CC Field Feasibility Study</summary>
-
-  - Highlight1
-  - Highlight2
-
-You can add an image or a code block, too.
 
 Business Plan Outline
 
@@ -655,10 +602,6 @@ Business Plan Schedule
 
 <summary>Deforestation in Rodonia, Brazil</summary>
 
-  - Highlight1
-  - Highlight2
-
-You can add an image or a code block, too.
 
 
 </details>
@@ -666,8 +609,6 @@ You can add an image or a code block, too.
 
 
 <br>
-
-
 
 
 <!--
