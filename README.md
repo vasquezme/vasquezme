@@ -196,7 +196,7 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 <hr />
 
 <body>
-    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />Relevant Experience and Projects</h1>
+    <h1><img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-resume-48.svg" />Projects and Related Experience</h1>
 
 </body>
 
