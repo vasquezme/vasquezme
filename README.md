@@ -44,17 +44,7 @@ Currently working on...
 | `::linkedin::`| <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-linkedin-64.svg" /> www.linkedin.com/in/mevasquez | `::email::`| <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-gmail-64.svg" /> m.e.vasquez8@gmail.com
 | `::library::`| <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-library-64.png" /> www.torontopubliclibrary.ca/ | `::github::`| <img height="30" width="30" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-github-64.svg" /> https://github.com/vasquezme |
 
-<br>
-
-![RadarCharts](https://github.com/user-attachments/assets/5d98ad05-cbea-4fc8-a240-d55699a2a342)
-
-
-|  |  |
-|-----|-----|
-| <img height="300" width="300" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/winnie-badge.svg" />  | <img height="300" width="300" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/theo-badge.svg" />  |
-
 </div>
-
 </div>
 
 <hr />
