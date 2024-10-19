@@ -79,6 +79,8 @@ Tools: Alteryx | MS SQL | Power BI | Excel | Trailblazer | Kalibrate Location In
 
 Website: [Kalibrate](https://kalibrate.com/) 
 
+Take a look at some [examples...](https://github.com/vasquezme/winnie-hotel-theo-resto/tree/main) 
+
 <hr />
 
 **Williams Engineering and Flow Consulting** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Business Intelligence Analyst Reporting Specialist* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 - 2022
