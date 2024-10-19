@@ -1,13 +1,13 @@
 <div align="center">
 <hr /><img src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/earthclip.png" width="auto" height="auto"/><hr />
 </div>
+
 <div align="center">
 
 <h1>Hi! Welcome to my GitHub Page!</h1>
 
 </div>
 
-<hr />
 <hr />
 
 My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
