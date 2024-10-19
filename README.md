@@ -221,7 +221,7 @@ Winnie's Hotel and Theo's Resto Locations with 3 KM Buffer in ArcGIS Pro
 
 Winnie's Hotel and Theo's Resto Locations - Power BI Dashboard
 
-![winnietheodashboard](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/winnie-hotel-theo-resto/winniehotetheoresto-summary.png)
+![winnietheodashboard]([images/winniehotetheoresto-summary.png](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-summary.png))
 
 </details>
 
