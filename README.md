@@ -213,7 +213,7 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
 Database Diagram for Winnie's Hotel and Theo's Resto
 
-![Databasediagrams](https://github.com/user-attachments/assets/4834a7cc-1942-4483-adb4-a1b87d94bf18)
+![Databasediagrams](https://github.com/vasquezme/winnie-hotel-theo-resto/blob/main/images/winniehotetheoresto-datamodel.png)
 
 Winnie's Hotel and Theo's Resto Locations with 3 KM Buffer in ArcGIS Pro
 
