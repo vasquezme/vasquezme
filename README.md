@@ -32,6 +32,7 @@ Currently working on...
 Interesting...
 - Ventusky: https://www.ventusky.com/?p=40.6;-85.2;4&l=rain-3h
 - Flight Tracking: https://www.flightaware.com/live/
+- FRED
 - Urban Institute: [Upward Mobility Initiative](https://upward-mobility.urban.org/dashboard/results?location_ids=1714000%2C3611000&predictor_ids=EmploymentOpportunities%2CAccessToJobsPayingALivingWage%2COpportunitiesForIncome%2CFinancialSecurity%2CWealthBuildingOpportunities%2CAccessToPreschool%2CEffectivePublicEducation%2CSchoolEconomicDiversity%2CPreparationForCollege%2CDigitalAccess%2CHousingAffordability%2CHousingStability%2CEconomicInclusion%2CRacialDiversity%2CSocialCapital%2CTransportationAccess%2CAccessToHealthServices%2CNeonatalHealth%2CEnvironmental+quality%2CSafetyFromTrauma%2CPoliticalParticipation%2CDescriptiveRepresentation%2CSafetyFromCrime%2CJustPolicing&ShareEmployed_confidence_intervals=0&ShareEmployed_subgroup_type=all&EnglishAchievement_confidence_intervals=0&EnglishAchievement_subgroup_type=all&LivingWage_confidence_intervals=0&LivingWage_subgroup_type=all&DigitalAccess_confidence_intervals=0&DigitalAccess_subgroup_type=all&IncomePercentiles_confidence_intervals=0&IncomePercentiles_subgroup_type=all&ShareDebt_confidence_intervals=0&ShareDebt_subgroup_type=all&RacialExposureIndex_confidence_intervals=0&RacialExposureIndex_subgroup_type=all&HomeValue_confidence_intervals=0&HomeValue_subgroup_type=all&ShareInPreschool_confidence_intervals=0&ShareInPreschool_subgroup_type=all&ShareStudentPoverty_confidence_intervals=0&ShareStudentPoverty_subgroup_type=all&HighSchoolDegree_confidence_intervals=0&HighSchoolDegree_subgroup_type=all&PhysicianRatio_confidence_intervals=0&PhysicianRatio_subgroup_type=all&LowBirthWeight_confidence_intervals=0&LowBirthWeight_subgroup_type=all&DeathsDueToInjury_confidence_intervals=0&DeathsDueToInjury_subgroup_type=all&LowIncomeHouseholds_confidence_intervals=0&LowIncomeHouseholds_subgroup_type=all&NumberHomelessChildren_confidence_intervals=0&NumberHomelessChildren_subgroup_type=all&ShareHomelessChildren_confidence_intervals=0&ShareHomelessChildren_subgroup_type=all&ConcentratedPoverty_confidence_intervals=0&ConcentratedPoverty_subgroup_type=all&NumberMmbrAssocs_confidence_intervals=0&NumberMmbrAssocs_subgroup_type=all&EconomicConnectedness_confidence_intervals=0&EconomicConnectedness_subgroup_type=all&TransitTripsIndex_confidence_intervals=0&TransitTripsIndex_subgroup_type=all&TransportationCostIndex_confidence_intervals=0&TransportationCostIndex_subgroup_type=all&AirQuality_confidence_intervals=0&AirQuality_subgroup_type=all&ElectionVoters_confidence_intervals=0&ElectionVoters_subgroup_type=all&ElectedRacialRepresentation_confidence_intervals=0&ElectedRacialRepresentation_subgroup_type=all&Crime_confidence_intervals=0&Crime_subgroup_type=all&JuvenileArrests_confidence_intervals=0&JuvenileArrests_subgroup_type=all&_year=2022&ShareEmployed_year=2022&IncomePercentiles_year=2022&ShareDebt_year=2021&HomeValue_year=2022&ShareInPreschool_year=2021&EnglishAchievement_year=2017&ShareStudentPoverty_year=2020&HighSchoolDegree_year=2021&DigitalAccess_year=2022&LowIncomeHouseholds_year=2022&ShareHomelessChildren_year=2021&NumberHomelessChildren_year=2021&ConcentratedPoverty_year=2021&RacialExposureIndex_year=2021&NumberMmbrAssocs_year=2021&EconomicConnectedness_year=2022&TransitTripsIndex_year=2019&TransportationCostIndex_year=2019&AirQuality_year=2019&ElectionVoters_year=2020&ElectedRacialRepresentation_year=2021&Crime_year=2022&JuvenileArrests_year=2022)
 
 <div align="center">
@@ -518,18 +519,6 @@ You can add an image or a code block, too.
 <p>
 
 | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Williams Engineering Canada - Flow Consulting | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> BUSINESS INTELLIGENCE ANALYST - REPORTING SPECIALIST | Toronto, Hybrid |
-| ------------- | ------------- | ------------- |
-
-<p>
-<p>
-
-| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Uncharted Software - GeoTime | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL SUPPORT SPECIALIST | Toronto, Hybrid |
-| ------------- | ------------- | ------------- |
-
-<p>
-<p>
-
-| <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-company-48.svg" /> Environics Analytics | <img height="50" width="50" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/icons8-summary-48.svg" /> TECHNICAL FULFILLMENT AND CLIENT SERVICES MANAGER | Toronto |
 | ------------- | ------------- | ------------- |
 
 <p>
