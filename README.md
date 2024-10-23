@@ -18,14 +18,14 @@ Currently working with...
  - :desktop_computer: :date:	:file_cabinet:	MS SQL for database management: sales, customer transactions, location data and market segmentation
  - :chart_with_upwards_trend: :round_pushpin:	:family_man_woman_girl_boy: Power BI for data visualization: sales, customer transactions, and location data
  - :panda_face:	:star2:	:mag:	Python and libraries for data cleaning and manipulation
- - :world_map: :dart: :houses: Leaflet, ArcMap Pro and Google Earth for mapping
+ - :world_map: :dart: :houses: Leaflet, ArcMap Pro, Google Earth, and Kepler for mapping
 
 Currently working on...
 
-- How-to-guides for Python libraries: Pandas, GeoPandas, PySpark, ArcPy, Excel and ETL tasks
-- How-to-guides for ETL and data engineering tasks: Data wrangling, data cleaning, batching and related data prep
+- How-to-guides for Python libraries: Pandas, GeoPandas, PySpark, and ArcPy
+- How-to-guides for ETL and data engineering tasks: Data wrangling, data cleaning, batching, and related data prep
 - Continued Learning and Certification: MS Data Analyst, IIBA Data Analyst, IIBA BI Analyst, ESRI Academy, LinkedIn Learning, Alteryx and other online-resources
-- Collecting and revistng past projects using updated data and software tools
+- Collecting and revisting past projects using updated data and software tools
 - Github Profile
 - Winnie's Hotel and Theo's Restaurant
 
@@ -61,13 +61,13 @@ Interesting...
 </body>
 
 <p>
-  Solution-driven analytical professional with experience managing socioeconomic, geospatial and transactional databases for software companies in the Marketing, Advertising, Law Enforcement and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
+  Solution-driven analytical professional with experience managing socioeconomic, geospatial, and transactional databases for software companies in the Marketing, Advertising, Law Enforcement, and Retail industries. Pursuing an opportunity to use skills in database management, data operations, data analysis and business analysis.
 
 - Data and tech enthusiast in the areas of database management, data analysis, geospatial technologies, business intelligence and business systems
 
 - Developed ETL pipelines streamlining data operations using database management, BI and visualization tools
 
-- Related activities: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
+- Related experience: Data warehousing, data lakes, data governance, stakeholder support, pre-sales support, sales enablement, product management, client advocacy, client services, community forums
 
 <hr />
 
@@ -80,7 +80,7 @@ Responsibilities:
  - Data migration into SaaS BI platforms
  - Process documentation
 
-Tools: Alteryx | MS SQL | Power BI | Excel | Trailblazer | Kalibrate Location Intelligence | Inkscape | JIRA | Confluence
+Tools used include: Alteryx | MS SQL | Power BI | Excel | Trailblazer | Kalibrate Location Intelligence | Inkscape | JIRA | Confluence
 
 Website: [Kalibrate](https://kalibrate.com/) 
 
@@ -93,7 +93,7 @@ Take a look at some [examples...](https://github.com/vasquezme/winnie-hotel-theo
 Responsibilities: 
 - Client support
 
-Tools: MS Power Apps | Power BI | 
+Tools used include: MS Power Apps | Power BI | 
 
 <hr />
 
@@ -106,12 +106,12 @@ Responsibilities:
  - Data migration into SaaS cell phone forensics mapping and analytics platform
  - Software pre-sales demo.
  - License fulfillment
- - Technical Support and installation support
+ - Technical support and installation support
  - Training and monthly demo.
  - Client activity support and tracking
  - SaaS and desktop UAT and bug reporting
 
-Tools: Excel | GeoTime | TellFinder | ArcMap | Freshdesk | Salesforce | WordPress | JIRA | Camtasia
+Tools used include: Excel | GeoTime | TellFinder | ArcMap | Freshdesk | Salesforce | WordPress | JIRA | Camtasia
 
 Website: [GeoTime](https://www.geotime.com/) 
 
@@ -147,10 +147,10 @@ Responsibilities:
      - SaaS licences and data product analytics
  - Client Advocacy
      - Requirements gathering
-     - Pre-sales demos., SaaS platform demos. and data support
+     - Pre-sales demos., SaaS platform demos., and data support
      - Customer segmentation and market insights
 
-Tools: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
+Tools used include: Alteryx | Excel | ENVISION5 | Zendesk | MS Dynamics | Globalscape |
 
 Website: [Environics Analytics](https://environicsanalytics.com/en-ca) 
 
@@ -158,9 +158,20 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
 **NetGain Partners**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Associate, Data Mining and GIS*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011 - 2012
 
+Responsibilities:
+- Survey design and administration
+- Data analysis
+- Report writing
+
+Tools used include: MS Project | Excel | SurveyMonkey | ArcMap
+
 <hr />
 
 **Bell Canada Inc.**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Geospatial Analyst* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2011 - 2011
+
+Resonsibilities:
+- Location analysis for retail and competitors
+- Market research
 
 </p>
 
@@ -216,7 +227,7 @@ Website: [Environics Analytics](https://environicsanalytics.com/en-ca)
 
   - ETL pipelines from a variety of sources in to SaaS BI platform
   - Database management for sales, transactions and customer records
-  - Tools used include: Alteryx, SQL, Power BI, TrailBlazer, Kalibrate Location Intelligence
+  - Tools used include: Alteryx, SQL, Power BI, TrailBlazer, and Kalibrate Location Intelligence
 
 Database Diagram for Winnie's Hotel and Theo's Resto
 
