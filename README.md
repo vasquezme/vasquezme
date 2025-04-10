@@ -10,7 +10,7 @@
 
 <hr />
 
-My name is Mauricio Vasquez and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
+My name is Mauricio and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
 
 Currently working with...
 
