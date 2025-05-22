@@ -12,6 +12,12 @@
 
 My name is Mauricio and welcome to my Github Page. The purpose of this space is to introduce myself and highlight current/past projects.
 
+<hr />
+
+Work History...
+
+<img src="icons8-svg/Career-Timeline.svg" width="auto" height="auto"/><hr />
+
 Currently working with...
 
  - :desktop_computer: :date:	:file_cabinet:	MS SQL for database management: sales, customer transactions, location data and market segmentation
