@@ -45,6 +45,7 @@ Interesting...
 - Urban Institute: https://upward-mobility.urban.org/
 - Geocoder: https://geocoder.ca/
 - Nominatim: https://nominatim.org/release-docs/develop/
+- AI: https://pair.withgoogle.com/explorables/
 
 
 
