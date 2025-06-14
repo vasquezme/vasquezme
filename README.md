@@ -47,7 +47,8 @@ Interesting...
 - Nominatim: https://nominatim.org/release-docs/develop/
 - AI: https://pair.withgoogle.com/explorables/
 - Overture Maps: https://overturemaps.org/
-
+- Leaflet: https://leafletjs.com/
+- Folium: https://python-visualization.github.io/folium/latest/
 
 
 <div align="center">
