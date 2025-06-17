@@ -225,7 +225,6 @@ Resonsibilities:
 | Microsoft SQL Server Essential Training 2022/2019 | Data Literacy: Exploring and Describing Data
 | Relational Databases Essential Training | Marketing Analytics Setting and Measuring KPIs
 
-<div id="weatherapi-weather-widget-3"></div><script type='text/javascript' src='https://www.weatherapi.com/weather/widget.ashx?loc=317748&wid=3&tu=1&div=weatherapi-weather-widget-3' async></script><noscript><a href="https://www.weatherapi.com/weather/q/toronto-317748" alt="Hour by hour Toronto weather">10 day hour by hour Toronto weather</a></noscript>
 
 <br>
 
