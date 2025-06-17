@@ -225,6 +225,10 @@ Resonsibilities:
 | Microsoft SQL Server Essential Training 2022/2019 | Data Literacy: Exploring and Describing Data
 | Relational Databases Essential Training | Marketing Analytics Setting and Measuring KPIs
 
+
+ <iframe src="https://vasquezme.github.io/certificate-slides/" allowfullscreen></iframe>
+
+
 <br>
 
 <hr />
