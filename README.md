@@ -50,7 +50,8 @@ Interesting...
 - Leaflet: https://leafletjs.com/
 - Folium: https://python-visualization.github.io/folium/latest/
 - Mock up: https://www.mokkup.ai/
-- https://openrouteservice.org/
+- Open Route Service API: https://openrouteservice.org/
+- TomTom API: https://developer.tomtom.com/
 
 
 <div align="center">
