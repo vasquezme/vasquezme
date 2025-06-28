@@ -137,7 +137,9 @@ Website: [GeoTime](https://www.geotime.com/)
 
 <hr />
 
-<img height="400" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/EA_ENVISION.png" />
+<img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/EA_ENVISION.png" />
+<img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/EA_ENVISION.svg" />
+<img height="auto" width="200" src="https://github.com/vasquezme/vasquezme/blob/main/icons8-svg/EA_ENVISION1.png" />
 
 **Environics Analytics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Technical Fulfillment and Client Services Manager* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2012 - 2019
 
