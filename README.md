@@ -26,11 +26,11 @@ Currently working with...
  - :world_map: :dart: :houses: Leaflet, ArcMap Pro, Google Earth, and Kepler for mapping
  - :globe_with_meridians: :earth_americas: :nazar_amulet:  ESRI ArcMap Pro for Geospatial Analysis and Data Science: Data Engineering, Visualization, Prediction, Object Detection, Pattern Detection over Space and Time, and Site Suitability
 
-Winnie and Theo' Hotel and Resto Dashboard -- https://winnietheo-dashboard-31rk.onrender.com/
-TEA Pollution Levels in Toronto -- https://tea-heatmap.onrender.com/
-Coffee Shops at 2,3,and 5 min Drive Times in Victoria, BC. -- https://coffee-demo.onrender.com/
-NBA Player Shot Chart -- https://nba-player-yl0k.onrender.com/
-Soccer Player Activity Heatmap -- https://field-heatmap.onrender.com/
+Winnie and Theo' Hotel and Resto Dashboard -- https://winnietheo-dashboard-31rk.onrender.com/ <br>
+TEA Pollution Levels in Toronto -- https://tea-heatmap.onrender.com/ <br>
+Coffee Shops at 2,3,and 5 min Drive Times in Victoria, BC. -- https://coffee-demo.onrender.com/ <br>
+NBA Player Shot Chart -- https://nba-player-yl0k.onrender.com/ <br>
+Soccer Player Activity Heatmap -- https://field-heatmap.onrender.com/ <br>
 
 Currently working on...
 
