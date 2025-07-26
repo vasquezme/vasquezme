@@ -235,6 +235,9 @@ Resonsibilities:
 | Relational Databases Essential Training | Marketing Analytics Setting and Measuring KPIs
 
 
+<iframe src="https://vasquezme.github.io/certificate-slides/" title="Certificates"></iframe>
+
+
 <br>
 
 <hr />
