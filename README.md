@@ -28,7 +28,7 @@ Currently working with...
 
 Winnie and Theo' Hotel and Resto Dashboard -- https://winnietheo-dashboard-31rk.onrender.com/ <br>
 TEA Pollution Levels in Toronto -- https://tea-heatmap.onrender.com/ <br>
-Coffee Shops at 2, 3, and 5 min Drive Times in Victoria, BC. -- https://coffee-demo.onrender.com/ <br>
+Coffee Shops at 5, 10, and 15 min. Drive Times in Toronto, Canada. -- https://coffee-demo.onrender.com/ <br>
 NBA Player Shot Chart -- https://nba-player-yl0k.onrender.com/ <br>
 Soccer Player Activity Heatmap -- https://field-heatmap.onrender.com/ <br>
 
